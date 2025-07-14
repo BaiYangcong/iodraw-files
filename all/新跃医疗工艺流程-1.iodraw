@@ -674,8 +674,8 @@
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-5" value="复位完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="3330" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-6" value="自动左工位流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3620" y="200" width="50" height="20" as="geometry" />
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-6" value="自动&lt;div&gt;左工位流程&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3620" y="200" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.505;entryY=-0.074;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lZbUCRp-dfQrxNi3yWoC-8" target="lZbUCRp-dfQrxNi3yWoC-11">
           <mxGeometry relative="1" as="geometry" />
@@ -712,6 +712,9 @@
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-16" value="开放&lt;br&gt;安全&lt;br&gt;标志" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3615" y="525" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-17" value="自动&lt;div&gt;左工位流程&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3840" y="200" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
