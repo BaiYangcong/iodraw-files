@@ -738,11 +738,19 @@
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-38" value="更换完成&lt;div&gt;按下确认按钮&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3455" y="465" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZbUCRp-dfQrxNi3yWoC-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3545" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-40" value="判断&lt;div&gt;S27状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="3625" y="535" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-42" value="无产品" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3665" y="595" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-45" value="无产品" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3575" y="535" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
