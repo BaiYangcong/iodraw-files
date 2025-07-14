@@ -712,8 +712,8 @@
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-30" value="有料盒" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3665" y="415" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-31" value="有料盒" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3675" y="425" width="50" height="20" as="geometry" />
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-31" value="无料盒" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3570" y="350" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
