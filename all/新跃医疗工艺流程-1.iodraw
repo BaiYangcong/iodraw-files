@@ -1076,8 +1076,14 @@
         <mxCell id="-537UuxNHV6aNUanQiex-11" value="有治具" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4430" y="395" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="-537UuxNHV6aNUanQiex-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-12" target="-537UuxNHV6aNUanQiex-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-12" value="V46-缩回" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="4430" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-537UuxNHV6aNUanQiex-14" value="V45-伸出" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="4430" y="515" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
