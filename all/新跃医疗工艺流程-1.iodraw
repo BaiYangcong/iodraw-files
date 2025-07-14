@@ -803,13 +803,16 @@
           <mxGeometry x="3595" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-61" value="S27无感应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3580" y="820" width="60" height="20" as="geometry" />
+          <mxGeometry x="3590" y="810" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-62" value="S27有感应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3730" y="770" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-63" value="V12-缩回" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="3595" y="940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-67" value="RB2下料完成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3540" y="850" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
