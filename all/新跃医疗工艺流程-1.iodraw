@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="RZ5iEGdob0T5iS_wzZQ6" name="第 1 页">
-    <mxGraphModel dx="637" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1103" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -676,42 +676,6 @@
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-6" value="自动&lt;div&gt;左工位流程&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3620" y="200" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.505;entryY=-0.074;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lZbUCRp-dfQrxNi3yWoC-8" target="lZbUCRp-dfQrxNi3yWoC-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-8" value="允许&lt;br&gt;取料" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3615" y="245" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-9" value="等待移载工位呼叫" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3550" y="265" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZbUCRp-dfQrxNi3yWoC-11" target="lZbUCRp-dfQrxNi3yWoC-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-11" value="允许RB2取料" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="3615" y="340" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZbUCRp-dfQrxNi3yWoC-13" target="lZbUCRp-dfQrxNi3yWoC-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-13" value="RB2取料完成" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3615" y="435" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-14" value="等待RB2工作完成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3550" y="460" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZbUCRp-dfQrxNi3yWoC-16" target="lZbUCRp-dfQrxNi3yWoC-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3750" y="279.9999999999999" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3750" y="555" />
-              <mxPoint x="3750" y="275" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-16" value="开放&lt;br&gt;安全&lt;br&gt;标志" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="3615" y="525" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-17" value="自动&lt;div&gt;右工位流程&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3840" y="200" width="70" height="20" as="geometry" />
