@@ -846,7 +846,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3380" y="590" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3381" y="1240" />
+              <mxPoint x="3655" y="1290" />
+              <mxPoint x="3381" y="1290" />
               <mxPoint x="3381" y="610" />
             </Array>
           </mxGeometry>
@@ -855,7 +856,7 @@
           <mxGeometry x="3625" y="1210" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-81" value="S27有感应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3560" y="1210" width="60" height="20" as="geometry" />
+          <mxGeometry x="3580" y="1300" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-83" value="S27无感应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3692" y="1210" width="60" height="20" as="geometry" />
