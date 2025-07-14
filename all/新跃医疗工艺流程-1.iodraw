@@ -680,6 +680,12 @@
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-17" value="自动&lt;div&gt;右工位流程&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3840" y="200" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-18" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="3605" y="269.64" as="sourcePoint" />
+            <mxPoint x="3705" y="269.64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
