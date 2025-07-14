@@ -709,6 +709,9 @@
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-27" value="判断&lt;div&gt;S25状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="3625" y="350" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZbUCRp-dfQrxNi3yWoC-28" target="lZbUCRp-dfQrxNi3yWoC-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-28" value="判断&lt;div&gt;S27状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="3625" y="450" width="60" height="60" as="geometry" />
         </mxCell>
@@ -740,6 +743,12 @@
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-38" value="更换完成&lt;div&gt;按下确认按钮&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3455" y="465" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-40" value="判断&lt;div&gt;S27状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="3625" y="590" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-42" value="有料盒" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3660" y="550" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
