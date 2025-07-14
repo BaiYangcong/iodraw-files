@@ -1040,20 +1040,20 @@
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-131" value="S26无感应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3918.91" y="1205" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-537UuxNHV6aNUanQiex-1" value="人工上下料工位" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="3510" y="130" width="120" height="40" as="geometry" />
+        <mxCell id="-537UuxNHV6aNUanQiex-1" value="回流首工位" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="4310" y="125" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-2" value="复位流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3375" y="210" width="50" height="20" as="geometry" />
+          <mxGeometry x="4175" y="205" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-4" target="-537UuxNHV6aNUanQiex-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-4" value="气缸状态保持" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="3340" y="255" width="120" height="40" as="geometry" />
+          <mxGeometry x="4140" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-5" value="复位完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="3340" y="330" width="120" height="40" as="geometry" />
+          <mxGeometry x="4140" y="325" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
