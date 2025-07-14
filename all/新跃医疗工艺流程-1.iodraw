@@ -749,8 +749,11 @@
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-42" value="无产品" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3665" y="595" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-45" value="无产品" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-45" value="有产品" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3575" y="535" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-46" value="弹窗：&lt;div&gt;提示人工装料盒&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="3485" y="415" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
