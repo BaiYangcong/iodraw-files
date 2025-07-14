@@ -1094,6 +1094,15 @@
         <mxCell id="-537UuxNHV6aNUanQiex-16" value="V45-缩回" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="4430" y="590" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="-537UuxNHV6aNUanQiex-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-18" target="-537UuxNHV6aNUanQiex-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4390" y="329.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4391" y="685" />
+              <mxPoint x="4391" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-18" value="V46-伸出阻挡" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="4430" y="665" width="120" height="40" as="geometry" />
         </mxCell>
