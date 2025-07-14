@@ -1118,6 +1118,9 @@
         <mxCell id="-537UuxNHV6aNUanQiex-18" value="V46-伸出阻挡" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="4430" y="665" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="-537UuxNHV6aNUanQiex-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-21" target="-537UuxNHV6aNUanQiex-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-21" value="允许取料" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="4460" y="750" width="60" height="60" as="geometry" />
         </mxCell>
@@ -1125,7 +1128,10 @@
           <mxGeometry x="4400" y="765" width="50" height="35" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-25" value="V46-伸出阻挡" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="4429" y="840" width="120" height="40" as="geometry" />
+          <mxGeometry x="4430" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-537UuxNHV6aNUanQiex-27" value="有治具" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4520" y="335" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
