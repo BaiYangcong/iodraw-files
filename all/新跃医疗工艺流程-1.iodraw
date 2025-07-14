@@ -1031,13 +1031,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-129" value="判断&lt;div&gt;S27状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-129" value="判断&lt;div&gt;S26状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="3973.91" y="1205" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-130" value="S27有感应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-130" value="S26有感应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3918.91" y="1255" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-131" value="S27无感应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-131" value="S26无感应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3918.91" y="1205" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
