@@ -793,8 +793,8 @@
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-56" value="人工下料准备就绪：&lt;div&gt;允许RB2下料&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="3595" y="760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-60" value="启动步：&lt;div&gt;判断V12位置&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="3615" y="270" width="120" height="40" as="geometry" />
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-61" value="S27无感应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3590" y="820" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
