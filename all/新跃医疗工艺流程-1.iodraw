@@ -817,17 +817,17 @@
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-62" value="S27有感应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3690" y="830" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3654.75" y="1020.8333333333333" as="targetPoint" />
-            <mxPoint x="3654.7499999999995" y="970.0000000000002" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZbUCRp-dfQrxNi3yWoC-63" target="lZbUCRp-dfQrxNi3yWoC-72">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-63" value="V13-缩回" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="3595" y="940" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-67" value="RB2下料完成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3540" y="850" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-72" value="V13-伸出" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="3595" y="1010" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
