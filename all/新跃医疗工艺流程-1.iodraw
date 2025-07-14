@@ -737,7 +737,7 @@
           <mxGeometry x="3505" y="465" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-38" value="更换完成&lt;div&gt;按下确认按钮&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3450" y="485" width="50" height="20" as="geometry" />
+          <mxGeometry x="3455" y="465" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
