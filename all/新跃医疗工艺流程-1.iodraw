@@ -781,12 +781,12 @@
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-51" value="V12-伸出" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="3595" y="680" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZbUCRp-dfQrxNi3yWoC-53">
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZbUCRp-dfQrxNi3yWoC-53" target="lZbUCRp-dfQrxNi3yWoC-56">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3540" y="780" as="targetPoint" />
+            <mxPoint x="3510" y="780" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3541" y="875" />
-              <mxPoint x="3541" y="760" />
+              <mxPoint x="3510" y="880" />
+              <mxPoint x="3510" y="780" />
             </Array>
           </mxGeometry>
         </mxCell>
