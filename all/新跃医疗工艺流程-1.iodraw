@@ -1124,8 +1124,8 @@
         <mxCell id="-537UuxNHV6aNUanQiex-21" value="允许取料" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="4460" y="750" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-537UuxNHV6aNUanQiex-22" value="等待移载工位呼叫" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4400" y="765" width="50" height="35" as="geometry" />
+        <mxCell id="-537UuxNHV6aNUanQiex-22" value="等待移载工位呼叫；&lt;div&gt;注意此处是无料情况&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4410" y="730" width="50" height="35" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-25" target="-537UuxNHV6aNUanQiex-29">
           <mxGeometry relative="1" as="geometry" />
