@@ -778,6 +778,9 @@
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-51" value="V12-伸出" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="3595" y="680" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-53" value="允许RB2取料" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="3625" y="740" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
