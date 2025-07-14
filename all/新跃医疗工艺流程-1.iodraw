@@ -721,6 +721,9 @@
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-33" value="弹窗：&lt;div&gt;提示人工装料盒&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="3475" y="415" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-35" value="判断&lt;div&gt;S25状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="3505" y="480" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
