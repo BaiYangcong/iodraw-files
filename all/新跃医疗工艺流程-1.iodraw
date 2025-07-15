@@ -1368,7 +1368,7 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-46" value="V16-下降" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="6260" y="674.71" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-48" value="V16-下降" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-48" value="V47-V48伸出&lt;div&gt;加紧物料&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="6260" y="770" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
