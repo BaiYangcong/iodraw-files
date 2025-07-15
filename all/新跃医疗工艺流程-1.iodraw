@@ -1255,8 +1255,10 @@
         <mxCell id="-537UuxNHV6aNUanQiex-86" value="判断&lt;div&gt;S03状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="5420" y="410" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-537UuxNHV6aNUanQiex-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-87" target="-537UuxNHV6aNUanQiex-93">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-537UuxNHV6aNUanQiex-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5450" y="585" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-87" value="V35-伸出阻挡" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="5390" y="500" width="120" height="40" as="geometry" />
@@ -1266,9 +1268,6 @@
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-91" value="关闭&lt;br&gt;安全&lt;br&gt;标志" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="4370" y="920" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-537UuxNHV6aNUanQiex-93" value="V35-伸出阻挡" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="5390" y="585" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
