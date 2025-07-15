@@ -1141,7 +1141,7 @@
         <mxCell id="-537UuxNHV6aNUanQiex-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-39" target="-537UuxNHV6aNUanQiex-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-537UuxNHV6aNUanQiex-39" value="允许进入" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="-537UuxNHV6aNUanQiex-39" value="允许移载" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="4460" y="920" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-41" target="-537UuxNHV6aNUanQiex-38">
