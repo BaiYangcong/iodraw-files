@@ -1259,13 +1259,16 @@
         <mxCell id="-537UuxNHV6aNUanQiex-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-86" target="-537UuxNHV6aNUanQiex-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-537UuxNHV6aNUanQiex-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-86" target="-537UuxNHV6aNUanQiex-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-86" value="判断&lt;div&gt;S03状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="5420" y="410" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-87" value="V35-伸出阻挡" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="5390" y="500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-537UuxNHV6aNUanQiex-89" value="V45-缩回" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="-537UuxNHV6aNUanQiex-89" value="做计时：&lt;div&gt;超过一定时间警告提示&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="5256" y="420" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
