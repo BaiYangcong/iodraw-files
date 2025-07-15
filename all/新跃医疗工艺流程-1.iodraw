@@ -1329,59 +1329,8 @@
             <mxPoint x="6320" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="6260" y="610" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="6110" y="265" />
-              <mxPoint x="6110" y="610" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-9" value="启动步：&lt;div&gt;判断V36位置&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-9" value="启动步：&lt;div&gt;判断V17位置&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="6260" y="245" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="E55zB4H-8Qdmt3aLf9op-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="6320" y="725" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-20" target="E55zB4H-8Qdmt3aLf9op-31">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="6320" y="875" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-20" value="允许移载" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="6290" y="765" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-27" value="等待移载工位呼叫；&lt;div&gt;注意此处是S01有料情况&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="6110" y="776.1" width="70" height="37.79" as="geometry" />
-        </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-28" value="关闭&lt;br&gt;安全&lt;br&gt;标志" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="6180" y="765" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.953;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-20" target="E55zB4H-8Qdmt3aLf9op-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="6284" y="795" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-31" target="E55zB4H-8Qdmt3aLf9op-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-31" value="V36-缩回回流侧" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="6260" y="885" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="6380" y="350" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="6470" y="585" />
-              <mxPoint x="6471" y="350" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-33" value="复位允许" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="6440" y="875" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
