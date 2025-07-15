@@ -1198,17 +1198,13 @@
         <mxCell id="-537UuxNHV6aNUanQiex-63" value="无治具" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5640" y="295" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-537UuxNHV6aNUanQiex-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-65" target="-537UuxNHV6aNUanQiex-67">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-537UuxNHV6aNUanQiex-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-65" target="-537UuxNHV6aNUanQiex-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5449.999999999999" y="419.9999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-65" value="V35-缩回放行" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="5390" y="335" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-537UuxNHV6aNUanQiex-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-67" target="-537UuxNHV6aNUanQiex-69">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-537UuxNHV6aNUanQiex-67" value="V45-伸出推料" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="5390" y="420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-69" target="-537UuxNHV6aNUanQiex-71">
           <mxGeometry relative="1" as="geometry" />
@@ -1261,7 +1257,7 @@
           <mxGeometry x="5570" y="1090" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-86" value="判断&lt;div&gt;S03状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="5590" y="355" width="60" height="60" as="geometry" />
+          <mxGeometry x="5420" y="425" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-87" value="V45-伸出推料" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="5690" y="460" width="120" height="40" as="geometry" />
