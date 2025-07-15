@@ -1196,7 +1196,7 @@
           <mxGeometry x="5390" y="305" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-63" value="无治具" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="5376" y="405" width="50" height="20" as="geometry" />
+          <mxGeometry x="5380" y="405" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-65" target="-537UuxNHV6aNUanQiex-86">
           <mxGeometry relative="1" as="geometry">
