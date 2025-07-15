@@ -1196,7 +1196,7 @@
           <mxGeometry x="5390" y="305" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-63" value="无治具" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="5640" y="295" width="50" height="20" as="geometry" />
+          <mxGeometry x="5376" y="405" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-65" target="-537UuxNHV6aNUanQiex-86">
           <mxGeometry relative="1" as="geometry">
@@ -1210,10 +1210,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-69" value="V45-缩回" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="5190" y="460" width="120" height="40" as="geometry" />
+          <mxGeometry x="5060" y="482.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-71" value="V46-伸出阻挡" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="5190" y="535" width="120" height="40" as="geometry" />
+          <mxGeometry x="5060" y="557.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-72" value="等待移载工位呼叫；&lt;div&gt;注意此处是S20有料情况&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5330" y="937.5" width="70" height="35" as="geometry" />
@@ -1262,7 +1262,7 @@
         <mxCell id="-537UuxNHV6aNUanQiex-86" value="判断&lt;div&gt;S03状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="5420" y="410" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-537UuxNHV6aNUanQiex-87" value="V45-伸出推料" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="-537UuxNHV6aNUanQiex-87" value="V35-伸出阻挡" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="5390" y="500" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
