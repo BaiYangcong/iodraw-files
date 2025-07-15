@@ -1329,6 +1329,9 @@
             <mxPoint x="6319.999999999999" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-9" target="E55zB4H-8Qdmt3aLf9op-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-9" value="启动步：&lt;div&gt;判断V17位置&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="6260" y="245" width="120" height="40" as="geometry" />
         </mxCell>
@@ -1415,7 +1418,7 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-72" value="切割处" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="6190" y="240" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-73" value="判断&lt;div&gt;S03状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-73" value="判断&lt;div&gt;V16状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="6030" y="320" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
