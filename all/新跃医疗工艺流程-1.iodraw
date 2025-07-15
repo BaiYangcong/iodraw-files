@@ -1214,7 +1214,7 @@
         <mxCell id="-537UuxNHV6aNUanQiex-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-65" target="-537UuxNHV6aNUanQiex-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-537UuxNHV6aNUanQiex-65" value="V46-缩回放行" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="-537UuxNHV6aNUanQiex-65" value="V35-伸出阻挡" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="5390" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-67" target="-537UuxNHV6aNUanQiex-69">
