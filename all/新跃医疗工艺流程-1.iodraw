@@ -1272,8 +1272,11 @@
         <mxCell id="-537UuxNHV6aNUanQiex-95" value="允许移载" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="5420" y="589.71" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-537UuxNHV6aNUanQiex-96" value="开放&lt;br&gt;安全&lt;br&gt;标志" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="5346" y="589.71" width="60" height="60" as="geometry" />
+        <mxCell id="-537UuxNHV6aNUanQiex-96" value="关闭&lt;br&gt;安全&lt;br&gt;标志" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="5316" y="589.71" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-537UuxNHV6aNUanQiex-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.953;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-95" target="-537UuxNHV6aNUanQiex-96">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
