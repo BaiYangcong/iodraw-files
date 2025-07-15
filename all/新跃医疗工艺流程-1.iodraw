@@ -1354,7 +1354,7 @@
           <mxGeometry x="6290" y="585" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-43" value="等待移载工位呼叫" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="6203" y="597.21" width="70" height="37.79" as="geometry" />
+          <mxGeometry x="6120" y="596.1" width="70" height="37.79" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-46" target="E55zB4H-8Qdmt3aLf9op-48">
           <mxGeometry relative="1" as="geometry" />
