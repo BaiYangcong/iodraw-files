@@ -1335,22 +1335,17 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-35" value="丢料处" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="6245" y="305" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="E55zB4H-8Qdmt3aLf9op-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="6319.999999999999" y="380" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-37" target="E55zB4H-8Qdmt3aLf9op-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-37" value="V16-上升" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="6260" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="6260" y="345" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-39" target="E55zB4H-8Qdmt3aLf9op-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-39" value="V17-伸出&lt;div&gt;切割位&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="6260" y="505" width="120" height="40" as="geometry" />
+          <mxGeometry x="6260" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-41" target="E55zB4H-8Qdmt3aLf9op-46">
           <mxGeometry relative="1" as="geometry" />
