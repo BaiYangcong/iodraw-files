@@ -1141,6 +1141,9 @@
         <mxCell id="-537UuxNHV6aNUanQiex-39" value="允许进入" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="4460" y="920" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-537UuxNHV6aNUanQiex-41" value="开放&lt;br&gt;安全&lt;br&gt;标志" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="4570" y="990" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
