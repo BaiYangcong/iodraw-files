@@ -1184,7 +1184,7 @@
         <mxCell id="-537UuxNHV6aNUanQiex-56" value="自动流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5440" y="200" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-537UuxNHV6aNUanQiex-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-58">
+        <mxCell id="-537UuxNHV6aNUanQiex-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-58" target="-537UuxNHV6aNUanQiex-65">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5449.999999999999" y="329.9999999999999" as="targetPoint" />
           </mxGeometry>
@@ -1262,6 +1262,9 @@
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-86" value="判断&lt;div&gt;S03状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="5590" y="355" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-537UuxNHV6aNUanQiex-87" value="V45-伸出推料" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="5690" y="460" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
