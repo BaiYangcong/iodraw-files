@@ -1256,11 +1256,14 @@
         <mxCell id="-537UuxNHV6aNUanQiex-85" value="复位允许" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="5570" y="1090" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-537UuxNHV6aNUanQiex-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-86" target="-537UuxNHV6aNUanQiex-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-86" value="判断&lt;div&gt;S03状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="5420" y="410" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-87" value="V45-伸出推料" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="5690" y="460" width="120" height="40" as="geometry" />
+          <mxGeometry x="5390" y="500" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
