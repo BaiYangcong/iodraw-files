@@ -1207,7 +1207,7 @@
           <mxGeometry x="5390" y="335" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-72" value="等待移载工位呼叫；&lt;div&gt;注意此处是S20有料情况&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="5330" y="937.5" width="70" height="35" as="geometry" />
+          <mxGeometry x="5300" y="935" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-74" target="-537UuxNHV6aNUanQiex-77">
           <mxGeometry relative="1" as="geometry">
