@@ -1335,6 +1335,9 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-35" value="丢料处" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="6245" y="305" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-36" value="气缸状态保持" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="6260" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
