@@ -1438,8 +1438,8 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-79" value="下压处" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="6040" y="395" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-81" value="下压处" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="6260" y="825" width="50" height="20" as="geometry" />
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-81" value="无完成&lt;div&gt;标志&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6330" y="825" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
