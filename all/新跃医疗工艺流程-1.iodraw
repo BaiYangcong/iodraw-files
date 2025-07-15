@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="RZ5iEGdob0T5iS_wzZQ6" name="第 1 页">
-    <mxGraphModel dx="1687" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1222,12 +1222,6 @@
         <mxCell id="-537UuxNHV6aNUanQiex-77" value="开放&lt;br&gt;安全&lt;br&gt;标志" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="5420" y="670" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-537UuxNHV6aNUanQiex-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-79" target="-537UuxNHV6aNUanQiex-85">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-537UuxNHV6aNUanQiex-79" value="V44-缩回" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="5390" y="1100" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-81" target="-537UuxNHV6aNUanQiex-103">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5450" y="880" as="targetPoint" />
@@ -1235,14 +1229,6 @@
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-81" value="允许移载" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="5420" y="770" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-537UuxNHV6aNUanQiex-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-537UuxNHV6aNUanQiex-79">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5450.034482758621" y="1079.9655172413786" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-537UuxNHV6aNUanQiex-85" value="复位允许" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="5570" y="1090" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-86" target="-537UuxNHV6aNUanQiex-87">
           <mxGeometry relative="1" as="geometry" />
@@ -1284,12 +1270,12 @@
         <mxCell id="-537UuxNHV6aNUanQiex-103" value="V36-缩回回流侧" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="5390" y="890" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-537UuxNHV6aNUanQiex-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-104">
+        <mxCell id="-537UuxNHV6aNUanQiex-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-104" target="-537UuxNHV6aNUanQiex-65">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5600" y="300" as="targetPoint" />
             <Array as="points">
               <mxPoint x="5600" y="590" />
-              <mxPoint x="5601" y="300" />
+              <mxPoint x="5601" y="355" />
             </Array>
           </mxGeometry>
         </mxCell>
