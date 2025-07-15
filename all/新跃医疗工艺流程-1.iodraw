@@ -172,7 +172,7 @@
         <mxCell id="1CHw0iVGNo8i6UnLCWiz-63" value="允许移载移动标志" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="585" y="860" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JTwCHe0VJaFvMz3cXA6Y-1" value="焊接工位" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="JTwCHe0VJaFvMz3cXA6Y-1" value="&lt;div&gt;ST04&lt;br&gt;&lt;/div&gt;焊接工位" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="980" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTwCHe0VJaFvMz3cXA6Y-3" value="复位流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
