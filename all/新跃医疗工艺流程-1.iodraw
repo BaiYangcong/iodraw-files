@@ -1207,11 +1207,11 @@
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-74" target="-537UuxNHV6aNUanQiex-77">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5450.028571428571" y="815" as="targetPoint" />
+            <mxPoint x="5450.028571428571" y="735" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-74" value="V36-伸出移载位" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="5390" y="675" width="120" height="40" as="geometry" />
+          <mxGeometry x="5390" y="595" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-75" value="有治具" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5380" y="465" width="50" height="20" as="geometry" />
@@ -1220,7 +1220,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-77" value="开放&lt;br&gt;安全&lt;br&gt;标志" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="5420" y="750" width="60" height="60" as="geometry" />
+          <mxGeometry x="5420" y="670" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-537UuxNHV6aNUanQiex-79" target="-537UuxNHV6aNUanQiex-85">
           <mxGeometry relative="1" as="geometry" />
@@ -1265,11 +1265,6 @@
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-91" value="关闭&lt;br&gt;安全&lt;br&gt;标志" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="4370" y="920" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-537UuxNHV6aNUanQiex-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-537UuxNHV6aNUanQiex-74">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5450.028571428571" y="649.681428571429" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="-537UuxNHV6aNUanQiex-99" value="等待移载工位呼叫；&lt;div&gt;注意此处是S01无料情况&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5050" y="721.1" width="70" height="37.79" as="geometry" />
