@@ -1347,8 +1347,8 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-37" value="V16-上升" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="6260" y="420" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-39" value="V16-上升" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="6260" y="510" width="120" height="40" as="geometry" />
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-39" value="V17-伸出&lt;div&gt;工作位&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="6260" y="505" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
