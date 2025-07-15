@@ -1412,8 +1412,8 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-70" value="开放&lt;br&gt;安全&lt;br&gt;标志" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="6173" y="385" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-72" value="丢料处" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="6255" y="315" width="50" height="20" as="geometry" />
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-72" value="切割处" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6190" y="240" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
