@@ -1480,10 +1480,13 @@
           <mxGeometry x="1240" y="457.21" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-108" value="已进入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1191" y="380" width="50" height="20" as="geometry" />
+          <mxGeometry x="1200" y="400" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-110" value="弹窗&lt;div&gt;人工判断是否可以继续焊接&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;size=0.2333333333333333;" vertex="1" parent="1">
           <mxGeometry x="1060" y="445" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-112" value="未进入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="467.21" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
