@@ -838,7 +838,7 @@
           <mxGeometry x="3853.91" y="460" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-97" value="更换完成&lt;div&gt;按下确认按钮&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="3803.91" y="460" width="50" height="20" as="geometry" />
+          <mxGeometry x="3773.91" y="485" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lZbUCRp-dfQrxNi3yWoC-100" target="lZbUCRp-dfQrxNi3yWoC-104" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -861,7 +861,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZbUCRp-dfQrxNi3yWoC-104" target="lZbUCRp-dfQrxNi3yWoC-96">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3834" y="490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-104" value="弹窗：&lt;div&gt;提示人工卸料&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="3818.91" y="585" width="120" height="40" as="geometry" />
