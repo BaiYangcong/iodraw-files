@@ -1455,7 +1455,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-128" target="E55zB4H-8Qdmt3aLf9op-125">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4170" y="1240" />
+              <mxPoint x="4170" y="265" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-128" value="判断&lt;div&gt;S26状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="3973.91" y="1210" width="60" height="60" as="geometry" />
@@ -1465,6 +1470,12 @@
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-132" value="有产品" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3636" y="1210" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-137" value="无产品" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3521" y="1220" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-138" value="有产品" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3646" y="1220" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
