@@ -878,6 +878,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZbUCRp-dfQrxNi3yWoC-106" target="lZbUCRp-dfQrxNi3yWoC-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-106" value="等待人工更换完成" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="3848.91" y="649.71" width="60" height="60" as="geometry" />
         </mxCell>
