@@ -323,13 +323,11 @@
         <mxCell id="JTwCHe0VJaFvMz3cXA6Y-76" value="自动流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1985" y="200" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JTwCHe0VJaFvMz3cXA6Y-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JTwCHe0VJaFvMz3cXA6Y-78" target="JTwCHe0VJaFvMz3cXA6Y-84" edge="1">
+        <mxCell id="JTwCHe0VJaFvMz3cXA6Y-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="JTwCHe0VJaFvMz3cXA6Y-84" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2010" y="319.9999999999999" as="targetPoint" />
+            <mxPoint x="2010" y="280" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="JTwCHe0VJaFvMz3cXA6Y-78" value="SV06-焊前视觉位" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1950" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTwCHe0VJaFvMz3cXA6Y-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JTwCHe0VJaFvMz3cXA6Y-84" target="JTwCHe0VJaFvMz3cXA6Y-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -384,9 +382,9 @@
         <mxCell id="JTwCHe0VJaFvMz3cXA6Y-107" value="等待&lt;br&gt;焊接1完成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1932.5" y="810" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JTwCHe0VJaFvMz3cXA6Y-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JTwCHe0VJaFvMz3cXA6Y-115" target="JTwCHe0VJaFvMz3cXA6Y-78" edge="1">
+        <mxCell id="JTwCHe0VJaFvMz3cXA6Y-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JTwCHe0VJaFvMz3cXA6Y-115" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2200" y="610" as="targetPoint" />
+            <mxPoint x="2070" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JTwCHe0VJaFvMz3cXA6Y-115" value="开放&lt;br&gt;安全&lt;br&gt;标志" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -1454,6 +1452,9 @@
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.106;entryY=0.535;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-115" target="JTwCHe0VJaFvMz3cXA6Y-24">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-118" value="复位完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="445" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
