@@ -646,20 +646,11 @@
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-33" value="弹窗：&lt;div&gt;提示人工装料盒&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="3426" y="405" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lZbUCRp-dfQrxNi3yWoC-35" target="lZbUCRp-dfQrxNi3yWoC-27" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3561" y="409.9999999999999" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3561" y="495" />
-              <mxPoint x="3561" y="395" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-35" value="等待人工更换完成" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="3456" y="465" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-38" value="更换完成&lt;div&gt;按下确认按钮&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="3406" y="485" width="50" height="20" as="geometry" />
+          <mxGeometry x="3535" y="460" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lZbUCRp-dfQrxNi3yWoC-40" target="lZbUCRp-dfQrxNi3yWoC-46" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -818,7 +809,7 @@
           <mxGeometry x="3853.91" y="460" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-97" value="更换完成&lt;div&gt;按下确认按钮&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="3803.91" y="452.21" width="50" height="20" as="geometry" />
+          <mxGeometry x="3923.91" y="455" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lZbUCRp-dfQrxNi3yWoC-100" target="lZbUCRp-dfQrxNi3yWoC-104" edge="1">
           <mxGeometry relative="1" as="geometry">
