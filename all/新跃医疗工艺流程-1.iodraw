@@ -614,13 +614,11 @@
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-17" value="自动&lt;div&gt;右工位流程&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3919" y="200" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lZbUCRp-dfQrxNi3yWoC-20" target="lZbUCRp-dfQrxNi3yWoC-27" edge="1">
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="lZbUCRp-dfQrxNi3yWoC-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3655" y="340" as="targetPoint" />
+            <mxPoint x="3655" y="290" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-20" value="启动步：&lt;div&gt;判断V12位置&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="3595" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-23" value="外部" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3590" y="305" width="50" height="20" as="geometry" />
@@ -775,13 +773,11 @@
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-76" value="V13-伸出" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="3595" y="1140" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lZbUCRp-dfQrxNi3yWoC-87" target="lZbUCRp-dfQrxNi3yWoC-90" edge="1">
+        <mxCell id="lZbUCRp-dfQrxNi3yWoC-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="lZbUCRp-dfQrxNi3yWoC-90" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4003.91" y="335" as="targetPoint" />
+            <mxPoint x="4003.91" y="285" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-87" value="启动步：&lt;div&gt;判断V11位置&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="3943.91" y="245" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-88" value="外部" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3938.91" y="300" width="50" height="20" as="geometry" />
@@ -1443,6 +1439,9 @@
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-123" value="内部" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3520" y="242.20999999999998" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-124" value="V12-伸出" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="3590" y="240" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
