@@ -1475,7 +1475,7 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-138" value="有产品" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4038.91" y="1210" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-145" value="此处实际做的抖动次数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-145" value="此处实际做的抖动次数&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;方便根据实际修改次数&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3486" y="987.21" width="64" height="30" as="geometry" />
         </mxCell>
       </root>
