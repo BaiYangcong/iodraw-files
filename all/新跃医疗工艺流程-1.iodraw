@@ -202,12 +202,6 @@
         <mxCell id="JTwCHe0VJaFvMz3cXA6Y-13" value="SV03-SV05 去安全位" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="900" y="490" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JTwCHe0VJaFvMz3cXA6Y-12" value="到位" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="900" y="380" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="JTwCHe0VJaFvMz3cXA6Y-15" value="复位完成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="900" y="460" width="50" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="JTwCHe0VJaFvMz3cXA6Y-16" value="复位完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="900" y="700" width="120" height="40" as="geometry" />
         </mxCell>
@@ -246,18 +240,6 @@
         </mxCell>
         <mxCell id="JTwCHe0VJaFvMz3cXA6Y-33" value="调用拍照流程" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1230" y="766.9200000000001" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JTwCHe0VJaFvMz3cXA6Y-29" value="到位" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="292.21" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="JTwCHe0VJaFvMz3cXA6Y-30" value="到位" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="372.21" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="JTwCHe0VJaFvMz3cXA6Y-31" value="到位" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1215" y="657.21" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="JTwCHe0VJaFvMz3cXA6Y-32" value="到位" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1215" y="736.9200000000001" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JTwCHe0VJaFvMz3cXA6Y-35" value="完成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1220" y="837.21" width="50" height="20" as="geometry" />
