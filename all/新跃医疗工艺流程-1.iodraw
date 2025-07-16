@@ -1296,7 +1296,7 @@
           <mxGeometry x="5940" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-2" value="复位流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="5865" y="205" width="50" height="20" as="geometry" />
+          <mxGeometry x="5865" y="200" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-4" target="E55zB4H-8Qdmt3aLf9op-5">
           <mxGeometry relative="1" as="geometry" />
@@ -1414,11 +1414,12 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-72" value="切割处" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="6190" y="240" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-73" target="E55zB4H-8Qdmt3aLf9op-46">
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-73" target="E55zB4H-8Qdmt3aLf9op-59">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="6040" y="730" as="targetPoint" />
             <Array as="points">
               <mxPoint x="6040" y="695" />
+              <mxPoint x="6260" y="695" />
             </Array>
           </mxGeometry>
         </mxCell>
