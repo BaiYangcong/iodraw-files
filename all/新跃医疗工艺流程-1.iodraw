@@ -1456,7 +1456,7 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-96" value="激活完成标志" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1460" y="930" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-97" value="V47-V48缩回&lt;div&gt;松开物料&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-97" value="弹窗&lt;div&gt;人工判断是否可以继续切割&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="5980" y="465" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
