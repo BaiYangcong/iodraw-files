@@ -1466,6 +1466,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-97" target="E55zB4H-8Qdmt3aLf9op-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6150" y="460" />
+              <mxPoint x="6150" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-97" value="弹窗&lt;div&gt;人工判断是否可以继续切割&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="5980" y="440" width="120" height="40" as="geometry" />
         </mxCell>
