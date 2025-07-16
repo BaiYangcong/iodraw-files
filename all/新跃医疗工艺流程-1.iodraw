@@ -1466,8 +1466,8 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-101" value="取消切割" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="6060" y="420" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-103" value="切割出现停机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="6110" y="840" width="140" height="20" as="geometry" />
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-103" value="切割出现停机&lt;div&gt;启动后二次切割&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6160" y="840" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
