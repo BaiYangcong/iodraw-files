@@ -1480,7 +1480,10 @@
           <mxGeometry x="1110" y="405" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-109" value="弹窗&lt;div&gt;人工判断是否可以继续切割&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;size=0;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="496.1" width="120" height="40" as="geometry" />
+          <mxGeometry x="1610" y="530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-110" value="弹窗&lt;div&gt;人工判断是否可以继续切割&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="6000" y="460" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
