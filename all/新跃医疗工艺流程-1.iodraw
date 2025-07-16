@@ -1459,8 +1459,8 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-97" value="弹窗&lt;div&gt;人工判断是否可以继续切割&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="5980" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-99" value="下压处" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="6050" y="405" width="50" height="20" as="geometry" />
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-99" value="继续切割" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5975" y="490" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
