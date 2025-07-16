@@ -236,7 +236,7 @@
           <mxGeometry x="1170" y="520" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTwCHe0VJaFvMz3cXA6Y-26" value="等待移载工位呼叫" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="550" width="50" height="20" as="geometry" />
+          <mxGeometry x="1110" y="536.1" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTwCHe0VJaFvMz3cXA6Y-27" target="E55zB4H-8Qdmt3aLf9op-92">
           <mxGeometry relative="1" as="geometry" />
@@ -1475,6 +1475,9 @@
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-107" value="未进入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1150" y="465" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-108" value="未进入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="405" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
