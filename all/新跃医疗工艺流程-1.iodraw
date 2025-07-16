@@ -687,8 +687,7 @@
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lZbUCRp-dfQrxNi3yWoC-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3551" y="685" />
-              <mxPoint x="3551" y="580" />
+              <mxPoint x="3410" y="685" />
             </Array>
             <mxPoint x="3410" y="270" as="targetPoint" />
           </mxGeometry>
@@ -697,7 +696,7 @@
           <mxGeometry x="3451" y="654.71" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-49" value="更换完成&lt;div&gt;按下确认按钮&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="3401" y="670" width="50" height="20" as="geometry" />
+          <mxGeometry x="3406" y="709.7099999999999" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lZbUCRp-dfQrxNi3yWoC-51" target="lZbUCRp-dfQrxNi3yWoC-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
