@@ -806,15 +806,6 @@
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-94" value="弹窗：&lt;div&gt;提示人工装料盒&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="3823.91" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lZbUCRp-dfQrxNi3yWoC-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lZbUCRp-dfQrxNi3yWoC-96" target="lZbUCRp-dfQrxNi3yWoC-90" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3958.91" y="404.9999999999999" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3958.91" y="490" />
-              <mxPoint x="3958.91" y="390" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-96" value="等待人工更换完成" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="3853.91" y="460" width="60" height="60" as="geometry" />
         </mxCell>
