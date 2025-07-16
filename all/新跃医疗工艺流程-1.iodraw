@@ -921,6 +921,10 @@
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lZbUCRp-dfQrxNi3yWoC-126" target="lZbUCRp-dfQrxNi3yWoC-100" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4003.91" y="1205" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4150" y="1155" />
+              <mxPoint x="4150" y="560" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-126" value="V14-伸出" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -1416,6 +1420,9 @@
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-125" value="V11-缩回" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="3943.91" y="245" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-126" value="判断&lt;div&gt;S27状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="3635" y="545" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
