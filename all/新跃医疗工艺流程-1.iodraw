@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="RZ5iEGdob0T5iS_wzZQ6" name="第 1 页">
-    <mxGraphModel dx="1793" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,11 +222,6 @@
         </mxCell>
         <mxCell id="JTwCHe0VJaFvMz3cXA6Y-19" value="SV03-安全高度&lt;br&gt;SV04-安全位" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1140" y="250" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JTwCHe0VJaFvMz3cXA6Y-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JTwCHe0VJaFvMz3cXA6Y-20" target="JTwCHe0VJaFvMz3cXA6Y-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1200" y="410" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="JTwCHe0VJaFvMz3cXA6Y-20" value="SV02-SV05 去安全位" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1140" y="330" width="120" height="40" as="geometry" />
@@ -1468,6 +1463,9 @@
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-103" value="切割出现停机&lt;div&gt;启动后二次切割&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="6200" y="875" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-104" value="允许&lt;br&gt;上料" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="545" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
