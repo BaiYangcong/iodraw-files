@@ -236,7 +236,7 @@
           <mxGeometry x="1260" y="512.21" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTwCHe0VJaFvMz3cXA6Y-26" value="等待移载工位呼叫" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="528.3100000000001" width="50" height="20" as="geometry" />
+          <mxGeometry x="1330" y="530.0000000000001" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTwCHe0VJaFvMz3cXA6Y-27" target="E55zB4H-8Qdmt3aLf9op-92">
           <mxGeometry relative="1" as="geometry" />
@@ -1499,6 +1499,9 @@
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-115" value="清除工作数据" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;size=0.2333333333333333;" vertex="1" parent="1">
           <mxGeometry x="1060" y="525" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.106;entryY=0.535;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-115" target="JTwCHe0VJaFvMz3cXA6Y-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
