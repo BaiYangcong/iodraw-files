@@ -1589,7 +1589,7 @@
           <mxGeometry x="-1994" y="442.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-186" value="有治具" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1934" y="535" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1930" y="545" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-189" target="E55zB4H-8Qdmt3aLf9op-195">
           <mxGeometry relative="1" as="geometry">
@@ -1633,7 +1633,7 @@
           <mxGeometry x="-1960" y="470" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-207" value="判断&lt;div&gt;S05、S07&lt;/div&gt;&lt;div&gt;状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-2010" y="510" width="60" height="60" as="geometry" />
+          <mxGeometry x="-2010" y="525" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
