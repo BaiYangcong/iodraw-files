@@ -1518,10 +1518,9 @@
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-160">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1079.9876923076922" y="226.24" as="targetPoint" />
+            <mxPoint x="-1070" y="230" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1105" y="230" />
-              <mxPoint x="-1105" y="226" />
+              <mxPoint x="-1080" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1529,7 +1528,7 @@
           <mxGeometry x="-1190" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-163" value="V05-上升" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="252.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1060" y="210" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
