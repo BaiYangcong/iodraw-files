@@ -1504,7 +1504,7 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-155" value="&lt;div&gt;ST01&lt;/div&gt;移载工位" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-1370" y="70" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-156">
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-156" target="E55zB4H-8Qdmt3aLf9op-168">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1260" y="295" as="targetPoint" />
           </mxGeometry>
@@ -1537,7 +1537,7 @@
           <mxGeometry x="-1400" y="235" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-168" value="判断&lt;div&gt;气缸状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1160" y="315" width="60" height="60" as="geometry" />
+          <mxGeometry x="-1290" y="292.5" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
