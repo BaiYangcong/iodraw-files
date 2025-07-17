@@ -1612,7 +1612,7 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-193" value="均无" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1940" y="767.21" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-194" value="初始步&lt;br&gt;判断SV07位置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-194" value="判断&lt;br&gt;判断S05、S06状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-1920" y="724.71" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
