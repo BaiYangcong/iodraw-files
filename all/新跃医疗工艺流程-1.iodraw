@@ -1664,10 +1664,10 @@
           <mxGeometry x="-1830" y="705" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-216" value="缺失" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1947" y="664.71" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1930" y="662.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-217" value="V38-伸出侧推" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-2020" y="689.71" width="120" height="40" as="geometry" />
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-217" value="故障" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-2030" y="675" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
