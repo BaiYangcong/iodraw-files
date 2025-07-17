@@ -1565,6 +1565,12 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-177" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1500" y="485" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-178" value="RB1上料工位" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1550" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-179" value="RB1上料工位" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1540" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
