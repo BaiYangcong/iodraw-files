@@ -1605,6 +1605,9 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-197" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-195" target="E55zB4H-8Qdmt3aLf9op-196">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-219" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-195" target="E55zB4H-8Qdmt3aLf9op-217">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-195" value="判断&lt;div&gt;S05、S07&lt;span style=&quot;background-color: initial;&quot;&gt;状态&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1890" y="672.21" width="60" height="60" as="geometry" />
         </mxCell>
@@ -1655,10 +1658,10 @@
           <mxGeometry x="-1990" y="667.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-216" value="缺失" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1830" y="662.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1840" y="669.71" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-217" value="故障&lt;div&gt;人工处理&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1790" y="680.0000000000001" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1790" y="682.2100000000002" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
