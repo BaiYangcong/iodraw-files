@@ -1534,7 +1534,7 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-164" value="起始&amp;amp;终点&lt;div&gt;之间&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1400" y="235" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-166" value="判断&lt;br&gt;判断SV07位置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-166" value="判断&lt;br&gt;各气缸状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-1320" y="300" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
