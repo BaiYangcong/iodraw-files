@@ -1545,7 +1545,7 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-170" value="全下降" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1320" y="352.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-171" value="全下降" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-171" value="部分" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1220" y="310" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
