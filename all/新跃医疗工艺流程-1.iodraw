@@ -1553,8 +1553,10 @@
             <mxPoint x="-1200" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-177" target="E55zB4H-8Qdmt3aLf9op-187">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-177">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1860" y="575" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-177" value="判断&lt;div&gt;S06&lt;/div&gt;&lt;div&gt;状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1890" y="480" width="60" height="60" as="geometry" />
@@ -1586,11 +1588,10 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-186" value="有治具" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1934" y="535" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-190" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-187" target="E55zB4H-8Qdmt3aLf9op-189">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-187" value="V19-上升" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1920" y="575" width="120" height="40" as="geometry" />
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-190" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="E55zB4H-8Qdmt3aLf9op-189">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1860" y="615" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-189" target="E55zB4H-8Qdmt3aLf9op-195">
           <mxGeometry relative="1" as="geometry">
