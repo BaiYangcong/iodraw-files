@@ -1558,9 +1558,6 @@
             <mxPoint x="-1860" y="575" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-177" target="E55zB4H-8Qdmt3aLf9op-207">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-177" value="判断&lt;div&gt;S06&lt;/div&gt;&lt;div&gt;状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1890" y="480" width="60" height="60" as="geometry" />
         </mxCell>
