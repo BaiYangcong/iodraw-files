@@ -1610,6 +1610,9 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-191" value="判断&lt;div&gt;S05、S07&lt;/div&gt;&lt;div&gt;状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1890" y="717.21" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-193" value="有治具" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1940" y="774.71" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
