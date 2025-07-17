@@ -1562,7 +1562,7 @@
             <mxPoint x="-1200" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-177" value="判断&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-177" value="判断&lt;div&gt;S06&lt;/div&gt;&lt;div&gt;状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1890" y="480" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-178" value="RB1上料工位" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
