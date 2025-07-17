@@ -1510,8 +1510,8 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-157" value="自动流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1290" y="162.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-158" value="自动流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1420" y="225" width="60" height="30" as="geometry" />
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-158" value="起始位" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1340" y="262.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
