@@ -1583,8 +1583,8 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-183" value="RB2下料工位" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1070" y="410" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-184" value="RB2下料工位" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1060" y="420" width="60" height="30" as="geometry" />
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-184" value="回流首工位" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="410" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
