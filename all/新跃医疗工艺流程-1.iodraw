@@ -1536,8 +1536,10 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-164" value="起始&amp;amp;终点&lt;div&gt;之间&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1400" y="235" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-168" target="E55zB4H-8Qdmt3aLf9op-172">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-168">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1260" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-168" value="判断&lt;div&gt;气缸状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1290" y="292.5" width="60" height="60" as="geometry" />
@@ -1552,12 +1554,12 @@
           <mxGeometry x="-1220" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-172" value="故障提示" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1320" y="387.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1550" y="352.21" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-175" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="-1340" y="380" as="sourcePoint" />
-            <mxPoint x="-1240" y="380" as="targetPoint" />
+            <mxPoint x="-1310" y="391.78" as="sourcePoint" />
+            <mxPoint x="-1210" y="391.78" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
