@@ -1666,7 +1666,7 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-216" value="缺失" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1930" y="662.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-217" value="故障" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-217" value="故障&lt;div&gt;人工处理&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-2030" y="675" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
