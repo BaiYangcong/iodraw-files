@@ -1554,6 +1554,12 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-172" value="故障提示" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1320" y="387.5" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-175" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-1340" y="380" as="sourcePoint" />
+            <mxPoint x="-1240" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
