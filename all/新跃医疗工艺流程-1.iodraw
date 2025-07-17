@@ -1504,7 +1504,7 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-155" value="&lt;div&gt;ST01&lt;/div&gt;移载工位" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-1370" y="70" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-156" value="7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-156" value="初始步&lt;br&gt;判断SV07位置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-1320" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-157" value="自动流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
