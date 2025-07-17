@@ -1627,7 +1627,10 @@
           <mxGeometry x="-1934" y="917.21" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-206" value="无治具" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1830" y="480" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1960" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-207" value="判断&lt;div&gt;S06&lt;/div&gt;&lt;div&gt;状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1780" y="530" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
