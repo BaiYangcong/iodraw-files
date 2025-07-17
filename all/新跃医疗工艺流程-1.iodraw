@@ -1504,8 +1504,10 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-155" value="&lt;div&gt;ST01&lt;/div&gt;移载工位" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-1370" y="70" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-156" target="E55zB4H-8Qdmt3aLf9op-166">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-156">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1260" y="295" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-156" value="初始步&lt;br&gt;判断SV07位置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-1320" y="210" width="120" height="40" as="geometry" />
@@ -1534,10 +1536,7 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-164" value="起始&amp;amp;终点&lt;div&gt;之间&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1400" y="235" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-166" value="判断&lt;br&gt;各气缸状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-1320" y="295" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-168" value="判断&lt;div&gt;气缸&lt;/div&gt;&lt;div&gt;状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-168" value="判断&lt;div&gt;气缸状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1160" y="315" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
