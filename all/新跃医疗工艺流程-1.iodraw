@@ -1655,7 +1655,7 @@
           <mxGeometry x="-1920" y="960" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-214" value="均有" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1990" y="667.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1950" y="672.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-216" value="缺失" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1840" y="669.71" width="60" height="30" as="geometry" />
