@@ -1553,7 +1553,7 @@
             <mxPoint x="-1200" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-177">
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-177" target="E55zB4H-8Qdmt3aLf9op-189">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1860" y="575" as="targetPoint" />
           </mxGeometry>
@@ -1587,11 +1587,6 @@
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-186" value="有治具" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1934" y="535" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-190" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="E55zB4H-8Qdmt3aLf9op-189">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1860" y="615" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-189" target="E55zB4H-8Qdmt3aLf9op-195">
           <mxGeometry relative="1" as="geometry">
