@@ -1804,7 +1804,7 @@
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-56" value="移载&lt;div&gt;允许&lt;/div&gt;&lt;div&gt;进入&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-3790" y="275" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4SZOp5XPHm_4pkZ3w9mt-58" value="移载&lt;div&gt;允许&lt;/div&gt;&lt;div&gt;进入&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="4SZOp5XPHm_4pkZ3w9mt-58" value="判断&lt;div&gt;S06&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-3790" y="382.5" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
