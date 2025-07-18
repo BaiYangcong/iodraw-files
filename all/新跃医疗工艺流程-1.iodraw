@@ -1763,6 +1763,10 @@
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4SZOp5XPHm_4pkZ3w9mt-41">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2890" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2830" y="640" />
+              <mxPoint x="-2890" y="640" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-41" value="判断前进/后退&lt;div&gt;标志&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
