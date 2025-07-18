@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram id="RZ5iEGdob0T5iS_wzZQ6" name="第 1 页">
-    <mxGraphModel dx="4043" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4817" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1768,6 +1768,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="4SZOp5XPHm_4pkZ3w9mt-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4SZOp5XPHm_4pkZ3w9mt-41" target="4SZOp5XPHm_4pkZ3w9mt-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-41" value="判断前进/后退&lt;div&gt;标志&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-2890" y="205" width="120" height="40" as="geometry" />
         </mxCell>
@@ -1781,7 +1784,7 @@
           <mxGeometry x="-2910" y="265" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-51" value="无" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2760" y="180" width="60" height="30" as="geometry" />
+          <mxGeometry x="-2760" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-52" value="SV07-起始位" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-2750" y="292.5" width="120" height="40" as="geometry" />
