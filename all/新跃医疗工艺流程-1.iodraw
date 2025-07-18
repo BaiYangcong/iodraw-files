@@ -1733,11 +1733,14 @@
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4SZOp5XPHm_4pkZ3w9mt-28" target="4SZOp5XPHm_4pkZ3w9mt-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4SZOp5XPHm_4pkZ3w9mt-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4SZOp5XPHm_4pkZ3w9mt-28" target="4SZOp5XPHm_4pkZ3w9mt-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-28" value="SV07-起始位" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-3000" y="290" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4SZOp5XPHm_4pkZ3w9mt-34" value="开放&lt;div&gt;允许&lt;/div&gt;&lt;div&gt;上料&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-2960" y="450" width="60" height="60" as="geometry" />
+        <mxCell id="4SZOp5XPHm_4pkZ3w9mt-34" value="后退&lt;div&gt;标志&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-3080" y="280" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
