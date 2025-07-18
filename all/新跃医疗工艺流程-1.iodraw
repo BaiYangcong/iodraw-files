@@ -1668,6 +1668,9 @@
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4SZOp5XPHm_4pkZ3w9mt-1" target="4SZOp5XPHm_4pkZ3w9mt-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4SZOp5XPHm_4pkZ3w9mt-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4SZOp5XPHm_4pkZ3w9mt-1" target="4SZOp5XPHm_4pkZ3w9mt-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-1" value="初始步&lt;br&gt;判断SV07位置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-3000" y="205" width="120" height="40" as="geometry" />
         </mxCell>
