@@ -1822,8 +1822,14 @@
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-63" value="无" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-3830" y="555" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4SZOp5XPHm_4pkZ3w9mt-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4SZOp5XPHm_4pkZ3w9mt-64" target="4SZOp5XPHm_4pkZ3w9mt-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-64" value="允许&lt;div&gt;RB1&lt;/div&gt;&lt;div&gt;上料&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-3790" y="600" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4SZOp5XPHm_4pkZ3w9mt-66" value="RB工作&lt;div&gt;完成&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-3790" y="720" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
