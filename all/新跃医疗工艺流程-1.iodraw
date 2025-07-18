@@ -1672,7 +1672,7 @@
           <mxGeometry x="-3000" y="205" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-2" value="起始位" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2930" y="252.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="-3000" y="252.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-3" value="移载流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2970" y="165" width="60" height="30" as="geometry" />
@@ -1716,8 +1716,8 @@
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4SZOp5XPHm_4pkZ3w9mt-19" target="4SZOp5XPHm_4pkZ3w9mt-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-2860" y="885" />
-              <mxPoint x="-2860" y="310" />
+              <mxPoint x="-2740" y="885" />
+              <mxPoint x="-2740" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
