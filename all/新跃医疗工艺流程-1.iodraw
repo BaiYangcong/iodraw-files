@@ -1834,7 +1834,7 @@
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-68" value="无上料完成标志" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-3840" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4SZOp5XPHm_4pkZ3w9mt-69" value="无上料完成标志" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4SZOp5XPHm_4pkZ3w9mt-69" value="有上料&lt;div&gt;完成标志&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-3890" y="157.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
