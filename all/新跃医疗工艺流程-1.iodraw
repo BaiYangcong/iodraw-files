@@ -1699,7 +1699,7 @@
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-12" value="ALL-缩回侧推" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-3000" y="682.21" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4SZOp5XPHm_4pkZ3w9mt-14" value="ALL-缩回侧推" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4SZOp5XPHm_4pkZ3w9mt-14" value="SV07-终点位" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-3000" y="802.21" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
