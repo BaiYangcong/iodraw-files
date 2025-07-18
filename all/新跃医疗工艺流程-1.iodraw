@@ -1780,8 +1780,8 @@
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-47" value="前进" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2910" y="265" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4SZOp5XPHm_4pkZ3w9mt-51" value="后退" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2830" y="275" width="60" height="30" as="geometry" />
+        <mxCell id="4SZOp5XPHm_4pkZ3w9mt-51" value="无" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2760" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
