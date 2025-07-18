@@ -1586,7 +1586,7 @@
           <mxGeometry x="-1310" y="440" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-185" value="回流尾工位" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2160" y="440" width="60" height="30" as="geometry" />
+          <mxGeometry x="-2400" y="445" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-186" value="有治具" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1920" y="552.5" width="60" height="30" as="geometry" />
