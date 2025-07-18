@@ -1669,7 +1669,7 @@
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-3" value="移载流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2970" y="165" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4SZOp5XPHm_4pkZ3w9mt-4" value="V38-伸出侧推" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4SZOp5XPHm_4pkZ3w9mt-4" value="ALL-伸出侧推" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-3000" y="305" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
