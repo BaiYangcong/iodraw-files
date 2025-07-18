@@ -1660,8 +1660,8 @@
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4SZOp5XPHm_4pkZ3w9mt-1" target="4SZOp5XPHm_4pkZ3w9mt-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-3280" y="225" />
-              <mxPoint x="-3280" y="797" />
+              <mxPoint x="-3250" y="225" />
+              <mxPoint x="-3250" y="797" />
             </Array>
           </mxGeometry>
         </mxCell>
