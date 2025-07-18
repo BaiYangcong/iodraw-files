@@ -1687,7 +1687,7 @@
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-8" value="判断&lt;div&gt;条件满足&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-2970" y="492.5" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4SZOp5XPHm_4pkZ3w9mt-10" value="ALL-伸出侧推" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4SZOp5XPHm_4pkZ3w9mt-10" value="ALL-伸出上升" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-3000" y="593.89" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
