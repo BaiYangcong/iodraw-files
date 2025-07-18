@@ -1673,7 +1673,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-4" value="ALL-伸出侧推" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-3000" y="305" width="120" height="40" as="geometry" />
+          <mxGeometry x="-3000" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4SZOp5XPHm_4pkZ3w9mt-6" target="4SZOp5XPHm_4pkZ3w9mt-8">
           <mxGeometry relative="1" as="geometry" />
@@ -1705,8 +1705,14 @@
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-14" value="SV07-终点位" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-3000" y="777.21" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4SZOp5XPHm_4pkZ3w9mt-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4SZOp5XPHm_4pkZ3w9mt-19" target="4SZOp5XPHm_4pkZ3w9mt-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4SZOp5XPHm_4pkZ3w9mt-19" value="ALL-缩回下降" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-3000" y="865" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4SZOp5XPHm_4pkZ3w9mt-21" value="ALL-缩回下降" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-3000" y="947.21" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
