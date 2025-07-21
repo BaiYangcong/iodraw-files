@@ -1878,7 +1878,7 @@
         <mxCell id="gVV-v1JwQbaNhazeBH9O-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gVV-v1JwQbaNhazeBH9O-8" target="gVV-v1JwQbaNhazeBH9O-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gVV-v1JwQbaNhazeBH9O-8" value="判断&lt;div&gt;S06&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="gVV-v1JwQbaNhazeBH9O-8" value="判断&lt;div&gt;S08&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-4580" y="385" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-9" value="有治具" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
