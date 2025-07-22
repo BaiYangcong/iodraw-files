@@ -2144,6 +2144,15 @@
         <mxCell id="gVV-v1JwQbaNhazeBH9O-115" value="&lt;b&gt;由移载工位复位&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-6940" y="570" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gVV-v1JwQbaNhazeBH9O-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gVV-v1JwQbaNhazeBH9O-118" target="gVV-v1JwQbaNhazeBH9O-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVV-v1JwQbaNhazeBH9O-118" value="&lt;b&gt;完成标志&lt;/b&gt;&lt;div&gt;&lt;b&gt;复位后&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-6120" y="611.1" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gVV-v1JwQbaNhazeBH9O-119" value="&lt;b&gt;由移载工位复位&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-6120" y="536.1" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
