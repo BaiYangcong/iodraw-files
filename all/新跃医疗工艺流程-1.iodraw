@@ -2076,6 +2076,9 @@
         <mxCell id="gVV-v1JwQbaNhazeBH9O-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gVV-v1JwQbaNhazeBH9O-97" target="gVV-v1JwQbaNhazeBH9O-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gVV-v1JwQbaNhazeBH9O-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gVV-v1JwQbaNhazeBH9O-97" target="gVV-v1JwQbaNhazeBH9O-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-97" value="判断S20" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-7034" y="415" width="60" height="60" as="geometry" />
         </mxCell>
