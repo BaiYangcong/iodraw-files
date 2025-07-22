@@ -2106,6 +2106,9 @@
         <mxCell id="gVV-v1JwQbaNhazeBH9O-85" value="有上料&lt;div&gt;完成标志&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-6616" y="172.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gVV-v1JwQbaNhazeBH9O-86" value="无" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-6556" y="443.75" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
