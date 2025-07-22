@@ -2100,17 +2100,15 @@
           <mxGeometry x="-7140" y="213.17999999999998" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-103" value="无" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-7080" y="484.43" width="60" height="30" as="geometry" />
+          <mxGeometry x="-7054" y="472.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-104" value="有" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-7090" y="400" width="60" height="30" as="geometry" />
+          <mxGeometry x="-7074" y="412.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gVV-v1JwQbaNhazeBH9O-106" target="gVV-v1JwQbaNhazeBH9O-99">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-7094" y="516" />
-              <mxPoint x="-7054" y="516" />
-              <mxPoint x="-7054" y="588" />
+              <mxPoint x="-7094" y="588" />
             </Array>
           </mxGeometry>
         </mxCell>
