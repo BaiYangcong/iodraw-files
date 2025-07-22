@@ -2077,7 +2077,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-97" value="判断S20" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-7034" y="426.31" width="60" height="60" as="geometry" />
+          <mxGeometry x="-7034" y="415" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gVV-v1JwQbaNhazeBH9O-99" target="gVV-v1JwQbaNhazeBH9O-101">
           <mxGeometry relative="1" as="geometry">
@@ -2085,7 +2085,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-99" value="允许&lt;div&gt;治具&lt;/div&gt;&lt;div&gt;进入&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-7034" y="543.8100000000001" width="60" height="60" as="geometry" />
+          <mxGeometry x="-7034" y="557.5000000000001" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-100" value="无完成标志" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-7084" y="293.81" width="60" height="30" as="geometry" />
@@ -2100,7 +2100,7 @@
           <mxGeometry x="-7080" y="484.43" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-104" value="有" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-7094" y="412.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="-7090" y="400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
