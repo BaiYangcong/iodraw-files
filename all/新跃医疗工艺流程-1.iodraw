@@ -2069,7 +2069,7 @@
         <mxCell id="gVV-v1JwQbaNhazeBH9O-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gVV-v1JwQbaNhazeBH9O-74" target="gVV-v1JwQbaNhazeBH9O-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gVV-v1JwQbaNhazeBH9O-74" value="上料完成" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="gVV-v1JwQbaNhazeBH9O-74" value="判断S01" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-6510" y="385.63" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gVV-v1JwQbaNhazeBH9O-76" target="gVV-v1JwQbaNhazeBH9O-83">
