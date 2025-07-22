@@ -2063,7 +2063,7 @@
         <mxCell id="gVV-v1JwQbaNhazeBH9O-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gVV-v1JwQbaNhazeBH9O-72" target="gVV-v1JwQbaNhazeBH9O-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gVV-v1JwQbaNhazeBH9O-72" value="移载&lt;div&gt;允许&lt;/div&gt;&lt;div&gt;进入&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="gVV-v1JwQbaNhazeBH9O-72" value="移载&lt;div&gt;允许&lt;/div&gt;&lt;div&gt;进入&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-6510" y="278.13" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gVV-v1JwQbaNhazeBH9O-74" target="gVV-v1JwQbaNhazeBH9O-76">
@@ -2104,7 +2104,7 @@
           <mxGeometry x="-6540" y="604.09" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-85" value="有上料&lt;div&gt;完成标志&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-6270" y="168.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="-6616" y="172.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
