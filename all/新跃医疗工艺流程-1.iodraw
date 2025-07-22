@@ -2029,7 +2029,7 @@
         <mxCell id="gVV-v1JwQbaNhazeBH9O-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gVV-v1JwQbaNhazeBH9O-58" target="gVV-v1JwQbaNhazeBH9O-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gVV-v1JwQbaNhazeBH9O-58" value="允许&lt;div&gt;RB2&lt;/div&gt;&lt;div&gt;下料&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="gVV-v1JwQbaNhazeBH9O-58" value="允许&lt;div&gt;RB2&lt;/div&gt;&lt;div&gt;下料&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-6180" y="601.25" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-59" value="&lt;span style=&quot;background-color: initial;&quot;&gt;上料完成&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
