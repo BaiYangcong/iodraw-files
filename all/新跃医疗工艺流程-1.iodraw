@@ -2017,23 +2017,16 @@
         <mxCell id="gVV-v1JwQbaNhazeBH9O-52" value="上料完成" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-6180" y="383.75" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gVV-v1JwQbaNhazeBH9O-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gVV-v1JwQbaNhazeBH9O-55" target="gVV-v1JwQbaNhazeBH9O-58">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gVV-v1JwQbaNhazeBH9O-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gVV-v1JwQbaNhazeBH9O-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-6150" y="601.25" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-55" value="判断安全标志" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-6180" y="501.25" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-56" value="有" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-6220" y="556.25" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="gVV-v1JwQbaNhazeBH9O-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gVV-v1JwQbaNhazeBH9O-58" target="gVV-v1JwQbaNhazeBH9O-59">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gVV-v1JwQbaNhazeBH9O-58" value="允许&lt;div&gt;RB2&lt;/div&gt;&lt;div&gt;下料&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-6180" y="601.25" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gVV-v1JwQbaNhazeBH9O-59" value="&lt;span style=&quot;background-color: initial;&quot;&gt;上料完成&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-6180" y="721.25" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-60" value="无治具" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-6230" y="251.25" width="60" height="30" as="geometry" />
@@ -2057,6 +2050,9 @@
         </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-66" value="判断&lt;div&gt;S05、S07&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-6350" y="378.75" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gVV-v1JwQbaNhazeBH9O-67" value="初始步&lt;div&gt;判断S01&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-6210" y="612.5" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
