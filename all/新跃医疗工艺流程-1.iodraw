@@ -1961,14 +1961,13 @@
         <mxCell id="gVV-v1JwQbaNhazeBH9O-34" value="有" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-5480" y="552.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gVV-v1JwQbaNhazeBH9O-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gVV-v1JwQbaNhazeBH9O-36" target="gVV-v1JwQbaNhazeBH9O-37">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gVV-v1JwQbaNhazeBH9O-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gVV-v1JwQbaNhazeBH9O-36" target="gVV-v1JwQbaNhazeBH9O-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-5410" y="717.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-36" value="允许&lt;div&gt;RB2&lt;/div&gt;&lt;div&gt;下料&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-5440" y="597.5" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gVV-v1JwQbaNhazeBH9O-37" value="&lt;span style=&quot;background-color: initial;&quot;&gt;上料完成&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-5440" y="717.5" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-38" value="无下料&lt;div&gt;完成标志&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-5490" y="247.5" width="60" height="30" as="geometry" />
@@ -2110,7 +2109,7 @@
           <mxGeometry x="-6556" y="443.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-87" value="工作完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-5550" y="790" width="120" height="40" as="geometry" />
+          <mxGeometry x="-5470" y="730" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
