@@ -2080,7 +2080,7 @@
         <mxCell id="gVV-v1JwQbaNhazeBH9O-76" value="判断安全标志" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-6510" y="503.13" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gVV-v1JwQbaNhazeBH9O-77" value="无治具" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gVV-v1JwQbaNhazeBH9O-77" value="无完成标志" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-6560" y="253.13" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gVV-v1JwQbaNhazeBH9O-79" target="gVV-v1JwQbaNhazeBH9O-82">
@@ -2102,6 +2102,9 @@
         </mxCell>
         <mxCell id="gVV-v1JwQbaNhazeBH9O-83" value="工作完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-6540" y="604.09" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gVV-v1JwQbaNhazeBH9O-85" value="有上料&lt;div&gt;完成标志&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-6270" y="168.75" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
