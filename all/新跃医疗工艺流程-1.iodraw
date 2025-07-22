@@ -2059,8 +2059,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-7174" y="303.80999999999995" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-7340" y="261" />
-              <mxPoint x="-7340" y="690" />
+              <mxPoint x="-7320" y="261" />
+              <mxPoint x="-7320" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2124,7 +2124,7 @@
         <mxCell id="gVV-v1JwQbaNhazeBH9O-110" value="回流位" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-7170" y="407.21" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gVV-v1JwQbaNhazeBH9O-111" value="ALL-伸出上升" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="gVV-v1JwQbaNhazeBH9O-111" value="故障&lt;div&gt;人工检查S20&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-7250" y="520" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
