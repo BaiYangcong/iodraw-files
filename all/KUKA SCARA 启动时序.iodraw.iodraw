@@ -705,7 +705,7 @@
         <mxCell id="Tyqm41guc0WGWJw3dZC2-57" value="安全条件&lt;div&gt;已触发&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="2440" y="290" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Tyqm41guc0WGWJw3dZC2-62" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-62" value="终止程序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1420" y="1125" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
