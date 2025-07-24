@@ -38,7 +38,7 @@
             <mxRectangle width="170" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JBOmyYgnOLhcNXo-hhyx-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-6">
+        <mxCell id="JBOmyYgnOLhcNXo-hhyx-9" value="停止已选择的程序。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-6">
           <mxGeometry x="310" width="290" height="40" as="geometry">
             <mxRectangle width="290" height="40" as="alternateBounds" />
           </mxGeometry>
