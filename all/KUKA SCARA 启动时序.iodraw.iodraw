@@ -347,7 +347,7 @@
             <mxRectangle width="170" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JBOmyYgnOLhcNXo-hhyx-161" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;暂停（闲置）已选择的程序。&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-158">
+        <mxCell id="JBOmyYgnOLhcNXo-hhyx-161" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 13.28px;&quot;&gt;程序暂停时触发。&lt;/span&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-158">
           <mxGeometry x="300" width="510" height="40" as="geometry">
             <mxRectangle width="510" height="40" as="alternateBounds" />
           </mxGeometry>
