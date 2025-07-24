@@ -463,7 +463,7 @@
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-186" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-145">
           <mxGeometry y="490" width="810" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JBOmyYgnOLhcNXo-hhyx-187" value="AppID3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-186">
+        <mxCell id="JBOmyYgnOLhcNXo-hhyx-187" value="已激活" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-186">
           <mxGeometry width="130" height="50" as="geometry">
             <mxRectangle width="130" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -481,7 +481,7 @@
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-190" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-145">
           <mxGeometry y="540" width="810" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JBOmyYgnOLhcNXo-hhyx-191" value="AppID4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-190">
+        <mxCell id="JBOmyYgnOLhcNXo-hhyx-191" value="ACK已确认" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-190">
           <mxGeometry width="130" height="50" as="geometry">
             <mxRectangle width="130" height="50" as="alternateBounds" />
           </mxGeometry>
