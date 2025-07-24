@@ -729,7 +729,7 @@
         <mxCell id="Tyqm41guc0WGWJw3dZC2-77" value="系统就绪=FALSE" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2681" y="565" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Tyqm41guc0WGWJw3dZC2-79" value="运行中&lt;div&gt;急停&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-79" value="&lt;div&gt;无&lt;/div&gt;运行中" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2610" y="550" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
