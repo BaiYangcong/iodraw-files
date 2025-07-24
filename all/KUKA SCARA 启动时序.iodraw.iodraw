@@ -20,7 +20,7 @@
             <mxRectangle width="170" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JBOmyYgnOLhcNXo-hhyx-5" value="&lt;b&gt;说明&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-2">
+        <mxCell id="JBOmyYgnOLhcNXo-hhyx-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;说明&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-2">
           <mxGeometry x="300" width="510" height="40" as="geometry">
             <mxRectangle width="510" height="40" as="alternateBounds" />
           </mxGeometry>
