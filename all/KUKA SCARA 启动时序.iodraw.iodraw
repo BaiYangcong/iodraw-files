@@ -546,7 +546,7 @@
             <mxRectangle width="180" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qELRznkxI8ax0rPq5OzR-7" value="Value 2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="qELRznkxI8ax0rPq5OzR-5">
+        <mxCell id="qELRznkxI8ax0rPq5OzR-7" value="在程序中使用power_on或power_off 指令可以控制机器人的启用或禁用。但如果您不想使用这些指令，建议在系统准备好后，在启动应用程序之前发送一个Enable 信号。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="qELRznkxI8ax0rPq5OzR-5">
           <mxGeometry x="180" width="630" height="50" as="geometry">
             <mxRectangle width="630" height="50" as="alternateBounds" />
           </mxGeometry>
