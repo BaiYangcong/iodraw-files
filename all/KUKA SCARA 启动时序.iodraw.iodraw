@@ -110,7 +110,7 @@
             <mxRectangle width="170" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JBOmyYgnOLhcNXo-hhyx-57" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-54">
+        <mxCell id="JBOmyYgnOLhcNXo-hhyx-57" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;终止并卸载已选择的程序，前提是程序不处&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;于错误状态。&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-54">
           <mxGeometry x="300" width="510" height="40" as="geometry">
             <mxRectangle width="510" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -128,7 +128,7 @@
             <mxRectangle width="170" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JBOmyYgnOLhcNXo-hhyx-61" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-58">
+        <mxCell id="JBOmyYgnOLhcNXo-hhyx-61" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;根据信号的反转设置，激活和禁用机器人。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;如果选中&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;反转&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;，则检测到负边沿时动作生效&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;，检测到在正边沿时动作失效，反之亦然&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-58">
           <mxGeometry x="300" width="510" height="40" as="geometry">
             <mxRectangle width="510" height="40" as="alternateBounds" />
           </mxGeometry>
