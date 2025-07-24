@@ -518,7 +518,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QKOjMaw0dc0_4U_WvNdG" name="控制流程图">
-    <mxGraphModel dx="1195" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -599,31 +599,25 @@
         <mxCell id="qELRznkxI8ax0rPq5OzR-27" value="恢复安全报警&lt;div&gt;&lt;b&gt;（急停、安全门）&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1590" y="180" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yZEghhNayYhJjYYWhx7D-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qELRznkxI8ax0rPq5OzR-28" target="yZEghhNayYhJjYYWhx7D-2">
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qELRznkxI8ax0rPq5OzR-28" target="Tyqm41guc0WGWJw3dZC2-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qELRznkxI8ax0rPq5OzR-28" value="ACK确认=TRUE&lt;div&gt;（&amp;gt;=250ms）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="qELRznkxI8ax0rPq5OzR-28" value="ACK确认=TRUE&lt;div&gt;（&amp;gt;=250ms）&lt;/div&gt;&lt;div&gt;ACK确认=FALSE&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1600" y="290" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Tyqm41guc0WGWJw3dZC2-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yZEghhNayYhJjYYWhx7D-2" target="Tyqm41guc0WGWJw3dZC2-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1660" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yZEghhNayYhJjYYWhx7D-2" value="ACK确认=FALSE" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="390" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tyqm41guc0WGWJw3dZC2-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tyqm41guc0WGWJw3dZC2-3" target="Tyqm41guc0WGWJw3dZC2-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tyqm41guc0WGWJw3dZC2-3" value="1.ACK已确认&lt;div&gt;2.系统就绪&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1615" y="480" width="90" height="90" as="geometry" />
+          <mxGeometry x="1615" y="400" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Tyqm41guc0WGWJw3dZC2-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tyqm41guc0WGWJw3dZC2-6" target="Tyqm41guc0WGWJw3dZC2-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tyqm41guc0WGWJw3dZC2-6" target="Tyqm41guc0WGWJw3dZC2-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1660" y="630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Tyqm41guc0WGWJw3dZC2-6" value="SCARA准备完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="620" width="120" height="50" as="geometry" />
+          <mxGeometry x="1600" y="535" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tyqm41guc0WGWJw3dZC2-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tyqm41guc0WGWJw3dZC2-8" target="Tyqm41guc0WGWJw3dZC2-10">
           <mxGeometry relative="1" as="geometry" />
@@ -695,8 +689,18 @@
         <mxCell id="Tyqm41guc0WGWJw3dZC2-30" value="停止并卸载=TURE&lt;div&gt;delay(20ms)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;停止并卸载&lt;/span&gt;=FALSE&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1350" y="1019" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tyqm41guc0WGWJw3dZC2-48" target="Tyqm41guc0WGWJw3dZC2-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1210" y="745" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Tyqm41guc0WGWJw3dZC2-48" value="运行中=FALSE&lt;div&gt;已停止=FASLE&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;已暂停=FASLE&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1150" y="1019" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-56" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;strokeColor=#FFE599;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="620" width="1020" height="880" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
