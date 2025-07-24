@@ -625,31 +625,17 @@
         <mxCell id="Tyqm41guc0WGWJw3dZC2-6" value="SCARA准备完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1600" y="620" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Tyqm41guc0WGWJw3dZC2-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tyqm41guc0WGWJw3dZC2-8" target="Tyqm41guc0WGWJw3dZC2-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Tyqm41guc0WGWJw3dZC2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tyqm41guc0WGWJw3dZC2-8" target="Tyqm41guc0WGWJw3dZC2-21">
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tyqm41guc0WGWJw3dZC2-8" target="Tyqm41guc0WGWJw3dZC2-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tyqm41guc0WGWJw3dZC2-8" value="开始=TURE&lt;div&gt;delay(20ms)&lt;/div&gt;&lt;div&gt;开始=FALSE&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1600" y="720" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Tyqm41guc0WGWJw3dZC2-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tyqm41guc0WGWJw3dZC2-10" target="Tyqm41guc0WGWJw3dZC2-30">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1850" y="700" />
-              <mxPoint x="2380" y="700" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Tyqm41guc0WGWJw3dZC2-10" value="运行中=TRUE" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="720" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Tyqm41guc0WGWJw3dZC2-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tyqm41guc0WGWJw3dZC2-12" target="Tyqm41guc0WGWJw3dZC2-14">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1600" y="840" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tyqm41guc0WGWJw3dZC2-12" value="暂停=TURE&lt;div&gt;delay(20ms)&lt;/div&gt;&lt;div&gt;暂停=FALSE&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="980" width="120" height="50" as="geometry" />
+          <mxGeometry x="1600" y="960" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tyqm41guc0WGWJw3dZC2-14" value="运行中=FALSE&lt;div&gt;已暂停=TRUE&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1790" y="980" width="120" height="50" as="geometry" />
