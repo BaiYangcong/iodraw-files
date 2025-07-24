@@ -116,39 +116,39 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-58" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-1">
-          <mxGeometry y="290" width="810" height="40" as="geometry" />
+          <mxGeometry y="290" width="810" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-59" value="激活Scara" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-58">
-          <mxGeometry width="130" height="40" as="geometry">
-            <mxRectangle width="130" height="40" as="alternateBounds" />
+          <mxGeometry width="130" height="50" as="geometry">
+            <mxRectangle width="130" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-60" value="RIO_ENABLE" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-58">
-          <mxGeometry x="130" width="170" height="40" as="geometry">
-            <mxRectangle width="170" height="40" as="alternateBounds" />
+          <mxGeometry x="130" width="170" height="50" as="geometry">
+            <mxRectangle width="170" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-61" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;根据信号的反转设置，激活和禁用机器人。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;如果选中&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;反转&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;，则检测到负边沿时动作生效&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt; background-color: initial;&quot;&gt;，检测到在正边沿时动作失效，反之亦然&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-58">
-          <mxGeometry x="300" width="510" height="40" as="geometry">
-            <mxRectangle width="510" height="40" as="alternateBounds" />
+          <mxGeometry x="300" width="510" height="50" as="geometry">
+            <mxRectangle width="510" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-62" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-1">
-          <mxGeometry y="330" width="810" height="70" as="geometry" />
+          <mxGeometry y="340" width="810" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-63" value="AppID0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-62">
-          <mxGeometry width="130" height="70" as="geometry">
-            <mxRectangle width="130" height="70" as="alternateBounds" />
+          <mxGeometry width="130" height="60" as="geometry">
+            <mxRectangle width="130" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-64" value="RIO_APPID0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-62">
-          <mxGeometry x="130" width="170" height="70" as="geometry">
-            <mxRectangle width="170" height="70" as="alternateBounds" />
+          <mxGeometry x="130" width="170" height="60" as="geometry">
+            <mxRectangle width="170" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JBOmyYgnOLhcNXo-hhyx-65" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;远程&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;ID&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;信号中的第一位：用于在&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;项目设置&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;应&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;用程序”菜单中为每个应用程序设置&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;ID&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;注&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;：在远程&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;IO &lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;模式下，每个&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;AppID&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt; background-color: initial;&quot;&gt;都必须绑定信号。&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-62">
-          <mxGeometry x="300" width="510" height="70" as="geometry">
-            <mxRectangle width="510" height="70" as="alternateBounds" />
+        <mxCell id="JBOmyYgnOLhcNXo-hhyx-65" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;远程&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;ID&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;信号中的第一位：用于在&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;项目设置&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;应&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 9.96pt;&quot;&gt;用程序”菜单中为每个应用程序设置&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 9.96pt;&quot;&gt;ID&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;注&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;：在远程&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;IO &lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;模式下，每个&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;AppID&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt; background-color: initial;&quot;&gt;都必须绑定信号。&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-62">
+          <mxGeometry x="300" width="510" height="60" as="geometry">
+            <mxRectangle width="510" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-66" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-1">
