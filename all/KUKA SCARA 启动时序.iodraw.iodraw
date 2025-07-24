@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-1" value="远程输入" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#6c8ebf;fontSize=22;fillColor=#dae8fc;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="10" y="120" width="810" height="710" as="geometry" />
+          <mxGeometry x="10" y="120" width="810" height="720" as="geometry" />
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-1">
           <mxGeometry y="30" width="810" height="40" as="geometry" />
@@ -164,7 +164,7 @@
             <mxRectangle width="170" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JBOmyYgnOLhcNXo-hhyx-69" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;远程&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;ID&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;信号中的第一位：用于在&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;项目设置&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;应&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 9.96pt;&quot;&gt;用程序”菜单中为每个应用程序设置&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 9.96pt;&quot;&gt;ID&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;注&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;：在远程&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;IO&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;模式下，每个&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;AppID&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt; background-color: initial;&quot;&gt;都必须绑定信号。&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-66">
+        <mxCell id="JBOmyYgnOLhcNXo-hhyx-69" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;远程&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;ID&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;信号中的第二位：用于在&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;项目设置&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;应&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 9.96pt;&quot;&gt;用程序”菜单中为每个应用程序设置&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 9.96pt;&quot;&gt;ID&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;注&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;：在远程&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;IO&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;模式下，每个&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;AppID&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt; background-color: initial;&quot;&gt;都必须绑定信号。&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-66">
           <mxGeometry x="300" width="510" height="50" as="geometry">
             <mxRectangle width="510" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -224,25 +224,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-136" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-1">
-          <mxGeometry y="590" width="810" height="40" as="geometry" />
+          <mxGeometry y="590" width="810" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-137" value="AppID5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-136">
-          <mxGeometry width="130" height="40" as="geometry">
-            <mxRectangle width="130" height="40" as="alternateBounds" />
+          <mxGeometry width="130" height="50" as="geometry">
+            <mxRectangle width="130" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-138" value="RIO_APPID5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-136">
-          <mxGeometry x="130" width="170" height="40" as="geometry">
-            <mxRectangle width="170" height="40" as="alternateBounds" />
+          <mxGeometry x="130" width="170" height="50" as="geometry">
+            <mxRectangle width="170" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-139" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;远程&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;ID&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;信号中的第一位：用于在&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;项目设置&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;应&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 9.96pt;&quot;&gt;用程序”菜单中为每个应用程序设置&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 9.96pt;&quot;&gt;ID&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;注&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;：在远程&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;IO&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;模式下，每个&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;AppID&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt; background-color: initial;&quot;&gt;都必须绑定信号。&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-136">
-          <mxGeometry x="300" width="510" height="40" as="geometry">
-            <mxRectangle width="510" height="40" as="alternateBounds" />
+          <mxGeometry x="300" width="510" height="50" as="geometry">
+            <mxRectangle width="510" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-140" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-1">
-          <mxGeometry y="630" width="810" height="40" as="geometry" />
+          <mxGeometry y="640" width="810" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-141" value="确认消息" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-140">
           <mxGeometry width="130" height="40" as="geometry">
@@ -260,7 +260,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-78" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-1">
-          <mxGeometry y="670" width="810" height="40" as="geometry" />
+          <mxGeometry y="680" width="810" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-79" value="程序倍率" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-78">
           <mxGeometry width="130" height="40" as="geometry">
