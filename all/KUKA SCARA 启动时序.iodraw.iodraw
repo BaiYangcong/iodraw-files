@@ -721,13 +721,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tyqm41guc0WGWJw3dZC2-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tyqm41guc0WGWJw3dZC2-74" target="qELRznkxI8ax0rPq5OzR-28">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2541" y="345" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Tyqm41guc0WGWJw3dZC2-74" value="运行中=FALSE&lt;div&gt;已暂停=TRUE&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2481" y="435" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tyqm41guc0WGWJw3dZC2-76" value="运行中&lt;div&gt;急停&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2481" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tyqm41guc0WGWJw3dZC2-77" target="qELRznkxI8ax0rPq5OzR-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2740" y="345" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Tyqm41guc0WGWJw3dZC2-77" value="运行中=FALSE&lt;div&gt;已停止=FASLE&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;已暂停=FASLE&lt;/span&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2681" y="565" width="120" height="50" as="geometry" />
