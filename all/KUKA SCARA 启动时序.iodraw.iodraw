@@ -613,8 +613,14 @@
         <mxCell id="yZEghhNayYhJjYYWhx7D-2" value="ACK确认=FALSE" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1600" y="390" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tyqm41guc0WGWJw3dZC2-3" target="Tyqm41guc0WGWJw3dZC2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Tyqm41guc0WGWJw3dZC2-3" value="1.ACK已确认&lt;div&gt;2.系统就绪&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1615" y="480" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-4" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
