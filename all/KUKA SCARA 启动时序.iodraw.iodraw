@@ -56,7 +56,7 @@
             <mxRectangle width="170" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JBOmyYgnOLhcNXo-hhyx-45" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;加载并运行已选择的程序。&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;注：如果选中的程序被修改，必须在启动该&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt; background-color: initial;&quot;&gt;程序前将其保存，否则“Start”信号将导&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;致运行原始程序。&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-42">
+        <mxCell id="JBOmyYgnOLhcNXo-hhyx-45" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;加载并运行已选择的程序。&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;注：如果选中的程序被修改，必须在启动该&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt; background-color: initial;&quot;&gt;程序前将其保存，否则“Start”信号将导&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;致运行原始程序。&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-42">
           <mxGeometry x="300" width="510" height="60" as="geometry">
             <mxRectangle width="510" height="60" as="alternateBounds" />
           </mxGeometry>
@@ -74,7 +74,7 @@
             <mxRectangle width="170" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JBOmyYgnOLhcNXo-hhyx-49" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;暂停（闲置）已选择的程序。&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-46">
+        <mxCell id="JBOmyYgnOLhcNXo-hhyx-49" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;暂停（闲置）已选择的程序。&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-46">
           <mxGeometry x="300" width="510" height="40" as="geometry">
             <mxRectangle width="510" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -92,7 +92,7 @@
             <mxRectangle width="170" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JBOmyYgnOLhcNXo-hhyx-53" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;继续暂停的程序。&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-50">
+        <mxCell id="JBOmyYgnOLhcNXo-hhyx-53" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;继续暂停的程序。&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-50">
           <mxGeometry x="300" width="510" height="40" as="geometry">
             <mxRectangle width="510" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -128,7 +128,7 @@
             <mxRectangle width="170" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JBOmyYgnOLhcNXo-hhyx-61" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;根据信号的反转设置，激活和禁用机器人。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;如果选中&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;反转&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;，则检测到负边沿时动作生效&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt; background-color: initial;&quot;&gt;，检测到在正边沿时动作失效，反之亦然&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-58">
+        <mxCell id="JBOmyYgnOLhcNXo-hhyx-61" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;根据信号的反转设置，激活和禁用机器人。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;如果选中&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;反转&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;，则检测到负边沿时动作生效&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt; background-color: initial;&quot;&gt;，检测到在正边沿时动作失效，反之亦然&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-58">
           <mxGeometry x="300" width="510" height="50" as="geometry">
             <mxRectangle width="510" height="50" as="alternateBounds" />
           </mxGeometry>
