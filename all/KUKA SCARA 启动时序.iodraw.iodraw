@@ -522,6 +522,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-56" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;strokeColor=#000000;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="620" width="1030" height="880" as="geometry" />
+        </mxCell>
         <mxCell id="qELRznkxI8ax0rPq5OzR-1" value="控制信号注意事项" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;strokeColor=default;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="9" y="20" width="810" height="280" as="geometry" />
         </mxCell>
@@ -699,8 +702,8 @@
         <mxCell id="Tyqm41guc0WGWJw3dZC2-48" value="运行中=FALSE&lt;div&gt;已停止=FASLE&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;已暂停=FASLE&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1150" y="1019" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Tyqm41guc0WGWJw3dZC2-56" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;strokeColor=#FFE599;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="620" width="1020" height="880" as="geometry" />
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-57" value="ACK确认=TRUE&lt;div&gt;（&amp;gt;=250ms）&lt;/div&gt;&lt;div&gt;ACK确认=FALSE&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2481" y="290" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
