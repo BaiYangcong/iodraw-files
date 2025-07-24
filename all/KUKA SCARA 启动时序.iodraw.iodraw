@@ -702,8 +702,8 @@
         <mxCell id="Tyqm41guc0WGWJw3dZC2-48" value="运行中=FALSE&lt;div&gt;已停止=FASLE&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;已暂停=FASLE&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1150" y="1019" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Tyqm41guc0WGWJw3dZC2-57" value="ACK确认=TRUE&lt;div&gt;（&amp;gt;=250ms）&lt;/div&gt;&lt;div&gt;ACK确认=FALSE&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="2481" y="290" width="120" height="50" as="geometry" />
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-57" value="安全条件&lt;div&gt;已触发&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="290" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
