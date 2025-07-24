@@ -306,7 +306,7 @@
             <mxRectangle width="130" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JBOmyYgnOLhcNXo-hhyx-152" value="RIO_STOP" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-150">
+        <mxCell id="JBOmyYgnOLhcNXo-hhyx-152" value="RIO_REA DY" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-150">
           <mxGeometry x="130" width="170" height="40" as="geometry">
             <mxRectangle width="170" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -324,7 +324,7 @@
             <mxRectangle width="130" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JBOmyYgnOLhcNXo-hhyx-156" value="RIO_START" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-154">
+        <mxCell id="JBOmyYgnOLhcNXo-hhyx-156" value="RIO_RUN NING" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-154">
           <mxGeometry x="130" width="170" height="60" as="geometry">
             <mxRectangle width="170" height="60" as="alternateBounds" />
           </mxGeometry>
