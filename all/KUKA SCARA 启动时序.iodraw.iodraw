@@ -319,7 +319,7 @@
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-154" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-145">
           <mxGeometry y="110" width="810" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JBOmyYgnOLhcNXo-hhyx-155" value="开始" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-154">
+        <mxCell id="JBOmyYgnOLhcNXo-hhyx-155" value="运行中" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-154">
           <mxGeometry width="130" height="60" as="geometry">
             <mxRectangle width="130" height="60" as="alternateBounds" />
           </mxGeometry>
@@ -337,7 +337,7 @@
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-158" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-145">
           <mxGeometry y="170" width="810" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JBOmyYgnOLhcNXo-hhyx-159" value="暂停" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-158">
+        <mxCell id="JBOmyYgnOLhcNXo-hhyx-159" value="已暂停" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-158">
           <mxGeometry width="130" height="40" as="geometry">
             <mxRectangle width="130" height="40" as="alternateBounds" />
           </mxGeometry>
