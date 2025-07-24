@@ -572,7 +572,7 @@
             <mxRectangle width="180" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qELRznkxI8ax0rPq5OzR-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="qELRznkxI8ax0rPq5OzR-20">
+        <mxCell id="qELRznkxI8ax0rPq5OzR-22" value="如果选中反转选项(&amp;gt;&amp;gt;&amp;gt; 图6-75)，则上图中的“上升沿”应更改为“下降沿”，即信号由下降沿触发。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="qELRznkxI8ax0rPq5OzR-20">
           <mxGeometry x="180" width="630" height="50" as="geometry">
             <mxRectangle width="630" height="50" as="alternateBounds" />
           </mxGeometry>
