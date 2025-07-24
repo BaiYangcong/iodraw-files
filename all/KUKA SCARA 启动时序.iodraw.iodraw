@@ -686,15 +686,18 @@
         <mxCell id="Tyqm41guc0WGWJw3dZC2-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tyqm41guc0WGWJw3dZC2-48" target="Tyqm41guc0WGWJw3dZC2-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1210" y="745" />
+              <mxPoint x="1380" y="745" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Tyqm41guc0WGWJw3dZC2-48" value="运行中=FALSE&lt;div&gt;已停止=FASLE&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;已暂停=FASLE&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="950" width="120" height="50" as="geometry" />
+          <mxGeometry x="1320" y="910" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tyqm41guc0WGWJw3dZC2-57" value="安全条件&lt;div&gt;已触发&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="2440" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-59" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;strokeColor=#000000;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="690" width="600" height="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
