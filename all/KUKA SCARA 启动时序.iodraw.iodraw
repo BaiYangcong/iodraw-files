@@ -533,7 +533,7 @@
             <mxRectangle width="180" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qELRznkxI8ax0rPq5OzR-4" value="Value 1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="qELRznkxI8ax0rPq5OzR-2">
+        <mxCell id="qELRznkxI8ax0rPq5OzR-4" value="一般来说，在触发start/pause/continue/stop/reset 信号之前，应通过APPID0、APPID1、APPID2 选择一个有效的应用程序。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="qELRznkxI8ax0rPq5OzR-2">
           <mxGeometry x="180" width="630" height="50" as="geometry">
             <mxRectangle width="630" height="50" as="alternateBounds" />
           </mxGeometry>
