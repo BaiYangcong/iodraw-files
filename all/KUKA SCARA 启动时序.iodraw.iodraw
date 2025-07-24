@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-1" value="远程输入" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#6c8ebf;fontSize=22;fillColor=#dae8fc;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="10" y="120" width="810" height="750" as="geometry" />
+          <mxGeometry x="10" y="120" width="810" height="760" as="geometry" />
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-1">
           <mxGeometry y="30" width="810" height="40" as="geometry" />
@@ -134,25 +134,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-62" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-1">
-          <mxGeometry y="340" width="810" height="50" as="geometry" />
+          <mxGeometry y="340" width="810" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-63" value="AppID0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-62">
-          <mxGeometry width="130" height="50" as="geometry">
-            <mxRectangle width="130" height="50" as="alternateBounds" />
+          <mxGeometry width="130" height="60" as="geometry">
+            <mxRectangle width="130" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-64" value="RIO_APPID0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-62">
-          <mxGeometry x="130" width="170" height="50" as="geometry">
-            <mxRectangle width="170" height="50" as="alternateBounds" />
+          <mxGeometry x="130" width="170" height="60" as="geometry">
+            <mxRectangle width="170" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-65" value="&lt;div&gt;远程ID信号中的第一位：用于在&quot;项目设置-应用程序”菜单中为每个应用程序设置ID&lt;/div&gt;&lt;div&gt;注：在远程IO 模式下，每个AppID&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;都必须绑定信号。&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-62">
-          <mxGeometry x="300" width="510" height="50" as="geometry">
-            <mxRectangle width="510" height="50" as="alternateBounds" />
+          <mxGeometry x="300" width="510" height="60" as="geometry">
+            <mxRectangle width="510" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-66" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-1">
-          <mxGeometry y="390" width="810" height="50" as="geometry" />
+          <mxGeometry y="400" width="810" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-67" value="AppID1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-66">
           <mxGeometry width="130" height="50" as="geometry">
@@ -164,13 +164,13 @@
             <mxRectangle width="170" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JBOmyYgnOLhcNXo-hhyx-69" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-66">
+        <mxCell id="JBOmyYgnOLhcNXo-hhyx-69" value="&lt;div&gt;远程ID信号中的第一位：用于在&quot;项目设置-应用程序”菜单中为每个应用程序设置ID&lt;/div&gt;&lt;div&gt;注：在远程IO 模式下，每个AppID&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;都必须绑定信号。&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-66">
           <mxGeometry x="300" width="510" height="50" as="geometry">
             <mxRectangle width="510" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-70" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-1">
-          <mxGeometry y="440" width="810" height="50" as="geometry" />
+          <mxGeometry y="450" width="810" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-71" value="AppID2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-70">
           <mxGeometry width="130" height="50" as="geometry">
@@ -188,7 +188,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-74" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-1">
-          <mxGeometry y="490" width="810" height="50" as="geometry" />
+          <mxGeometry y="500" width="810" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-75" value="AppID3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-74">
           <mxGeometry width="130" height="50" as="geometry">
@@ -206,7 +206,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-1">
-          <mxGeometry y="540" width="810" height="50" as="geometry" />
+          <mxGeometry y="550" width="810" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-11" value="AppID4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-10">
           <mxGeometry width="130" height="50" as="geometry">
@@ -224,7 +224,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-136" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-1">
-          <mxGeometry y="590" width="810" height="50" as="geometry" />
+          <mxGeometry y="600" width="810" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-137" value="AppID5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-136">
           <mxGeometry width="130" height="50" as="geometry">
@@ -242,7 +242,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-140" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-1">
-          <mxGeometry y="640" width="810" height="40" as="geometry" />
+          <mxGeometry y="650" width="810" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-141" value="确认消息" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-140">
           <mxGeometry width="130" height="40" as="geometry">
@@ -260,7 +260,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-78" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-1">
-          <mxGeometry y="680" width="810" height="70" as="geometry" />
+          <mxGeometry y="690" width="810" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JBOmyYgnOLhcNXo-hhyx-79" value="程序倍率" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-78">
           <mxGeometry width="130" height="70" as="geometry">
