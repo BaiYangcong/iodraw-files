@@ -602,7 +602,7 @@
         <mxCell id="yZEghhNayYhJjYYWhx7D-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qELRznkxI8ax0rPq5OzR-28" target="yZEghhNayYhJjYYWhx7D-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qELRznkxI8ax0rPq5OzR-28" value="ACK确认&lt;div&gt;（&amp;gt;=250ms）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="qELRznkxI8ax0rPq5OzR-28" value="ACK确认=TRUE&lt;div&gt;（&amp;gt;=250ms）&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1600" y="290" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yZEghhNayYhJjYYWhx7D-2" value="1.ACK已确认&lt;div&gt;2.系统就绪&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
