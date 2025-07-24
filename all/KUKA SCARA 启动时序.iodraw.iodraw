@@ -590,8 +590,8 @@
             <mxRectangle width="630" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qELRznkxI8ax0rPq5OzR-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;控制流程&lt;/font&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="20" width="280" height="60" as="geometry" />
+        <mxCell id="qELRznkxI8ax0rPq5OzR-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;控制流程&lt;/font&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="20" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
