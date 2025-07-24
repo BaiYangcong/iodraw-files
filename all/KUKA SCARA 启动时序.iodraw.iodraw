@@ -671,10 +671,10 @@
           <mxGeometry x="1840" y="1019" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tyqm41guc0WGWJw3dZC2-25" value="运行中=FALSE&lt;div&gt;已停止=TRUE&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="1030" width="120" height="50" as="geometry" />
+          <mxGeometry x="2000" y="1019" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tyqm41guc0WGWJw3dZC2-30" value="停止并卸载=TURE&lt;div&gt;delay(20ms)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;停止并卸载&lt;/span&gt;=FALSE&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="720" width="120" height="50" as="geometry" />
+          <mxGeometry x="1350" y="1019" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
