@@ -74,7 +74,7 @@
             <mxRectangle width="170" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JBOmyYgnOLhcNXo-hhyx-49" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-46">
+        <mxCell id="JBOmyYgnOLhcNXo-hhyx-49" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;暂停（闲置）已选择的程序。&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-46">
           <mxGeometry x="300" width="510" height="40" as="geometry">
             <mxRectangle width="510" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -92,7 +92,7 @@
             <mxRectangle width="170" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JBOmyYgnOLhcNXo-hhyx-53" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-50">
+        <mxCell id="JBOmyYgnOLhcNXo-hhyx-53" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 9.96pt;&quot;&gt;继续暂停的程序。&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="JBOmyYgnOLhcNXo-hhyx-50">
           <mxGeometry x="300" width="510" height="40" as="geometry">
             <mxRectangle width="510" height="40" as="alternateBounds" />
           </mxGeometry>
