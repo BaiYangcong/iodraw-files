@@ -708,6 +708,9 @@
         <mxCell id="Tyqm41guc0WGWJw3dZC2-66" value="安全条件&lt;div&gt;已触发&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2240" y="780" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="Tyqm41guc0WGWJw3dZC2-71" target="Tyqm41guc0WGWJw3dZC2-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Tyqm41guc0WGWJw3dZC2-71" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;strokeColor=#000000;strokeWidth=3;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1070" y="720" width="920" height="750" as="geometry" />
         </mxCell>
