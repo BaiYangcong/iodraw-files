@@ -797,8 +797,14 @@
         <mxCell id="Tyqm41guc0WGWJw3dZC2-97" value="&lt;div&gt;已停止=FALSE&lt;/div&gt;&lt;div&gt;严重错误=NO.=0&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;delay(200ms)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;警告=FALSE&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="690" y="560" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tyqm41guc0WGWJw3dZC2-99" target="Tyqm41guc0WGWJw3dZC2-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Tyqm41guc0WGWJw3dZC2-99" value="确认消息=TURE&lt;div&gt;delay(20ms)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;确认消息&lt;/span&gt;=FALSE&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="890" y="415" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-101" value="警告=FALSE" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="690" y="415" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
