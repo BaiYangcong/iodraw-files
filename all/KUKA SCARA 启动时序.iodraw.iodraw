@@ -779,7 +779,7 @@
         <mxCell id="Tyqm41guc0WGWJw3dZC2-92" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;未就绪&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1461" y="557.5" width="60" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="Tyqm41guc0WGWJw3dZC2-93" value="&lt;div&gt;警告=TRUE&lt;/div&gt;&lt;div&gt;严重错误=NO.&amp;lt;20000&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-93" value="&lt;div&gt;已停止=TRUE&lt;/div&gt;&lt;div&gt;警告=TRUE&lt;/div&gt;&lt;div&gt;严重错误=NO.&amp;lt;20000&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1090" y="560" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
