@@ -806,6 +806,27 @@
         <mxCell id="Tyqm41guc0WGWJw3dZC2-101" value="警告=FALSE" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="690" y="455" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tyqm41guc0WGWJw3dZC2-104" target="Tyqm41guc0WGWJw3dZC2-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-104" value="&lt;div&gt;开始=TURE&lt;div&gt;delay(20ms)&lt;/div&gt;&lt;div&gt;开始=FALSE&lt;/div&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="370" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tyqm41guc0WGWJw3dZC2-106" target="Tyqm41guc0WGWJw3dZC2-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-106" value="&lt;div&gt;警告=TRUE&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="370" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tyqm41guc0WGWJw3dZC2-108" target="Tyqm41guc0WGWJw3dZC2-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-108" value="确认消息=TURE&lt;div&gt;delay(20ms)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;确认消息&lt;/span&gt;=FALSE&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="890" y="370" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-109" value="警告=FALSE" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="690" y="370" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
