@@ -614,7 +614,10 @@
         <mxCell id="qELRznkxI8ax0rPq5OzR-28" value="ACK确认=TRUE&lt;div&gt;（&amp;gt;=250ms）&lt;/div&gt;&lt;div&gt;ACK确认=FALSE&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1521" y="320" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Tyqm41guc0WGWJw3dZC2-3" value="ACK已确认=TRUE&lt;div&gt;系统就绪=TRUE&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tyqm41guc0WGWJw3dZC2-3" target="Tyqm41guc0WGWJw3dZC2-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-3" value="&lt;div&gt;系统就绪=TRUE&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1536" y="395" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Tyqm41guc0WGWJw3dZC2-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tyqm41guc0WGWJw3dZC2-6" target="Tyqm41guc0WGWJw3dZC2-8">
@@ -742,6 +745,12 @@
         </mxCell>
         <mxCell id="Tyqm41guc0WGWJw3dZC2-79" value="&lt;div&gt;无&lt;/div&gt;运行中" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2610" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tyqm41guc0WGWJw3dZC2-82" target="Tyqm41guc0WGWJw3dZC2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyqm41guc0WGWJw3dZC2-82" value="ACK已确认=TRUE&lt;div&gt;系统就绪=TRUE&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1536" y="540" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
