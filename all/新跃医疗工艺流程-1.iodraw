@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram id="RZ5iEGdob0T5iS_wzZQ6" name="第 1 页">
-    <mxGraphModel dx="8505" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9236" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,9 +345,6 @@
         </mxCell>
         <mxCell id="582tL9GAFeUVrNcyL4z_-1" value="&lt;div&gt;ST06&lt;br&gt;&lt;/div&gt;RB2下料工位" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2590" y="120" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="582tL9GAFeUVrNcyL4z_-2" value="复位流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2545" y="200" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="582tL9GAFeUVrNcyL4z_-10" value="自动流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2800" y="200" width="50" height="20" as="geometry" />
@@ -2636,10 +2633,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-304" value="复位流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2540" y="253.17999999999995" width="50" height="20" as="geometry" />
+          <mxGeometry x="2530" y="197.49999999999994" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-305" value="执行RB复位时序" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2540" y="353.17999999999995" width="50" height="20" as="geometry" />
+          <mxGeometry x="2530" y="297.49999999999994" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-306" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-308" target="xaCHMoIF9OAT6-QVO9_u-310">
           <mxGeometry relative="1" as="geometry" />
