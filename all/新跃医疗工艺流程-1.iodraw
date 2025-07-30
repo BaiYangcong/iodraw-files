@@ -2413,6 +2413,9 @@
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-98" value="Uint_ko[2]&lt;div&gt;&amp;lt;2&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1216" y="1510" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-100" value="Uint_ko[2]&lt;div&gt;&amp;gt;=2&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1166" y="1410" width="50" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
