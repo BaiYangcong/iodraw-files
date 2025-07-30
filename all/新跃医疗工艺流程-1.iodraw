@@ -2691,11 +2691,11 @@
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-333" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-331" target="582tL9GAFeUVrNcyL4z_-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xaCHMoIF9OAT6-QVO9_u-336" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-331" target="xaCHMoIF9OAT6-QVO9_u-329">
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-336" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-331" target="xaCHMoIF9OAT6-QVO9_u-337">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2933" y="281" />
-              <mxPoint x="2933" y="504" />
+              <mxPoint x="2933" y="280.5500000000002" />
+              <mxPoint x="2933" y="603" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2713,6 +2713,9 @@
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-337" value="NG&lt;div&gt;标志&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2822.5" y="572.21" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-339" value="FALSE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2792.5" y="637.5" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
