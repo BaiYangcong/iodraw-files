@@ -2593,7 +2593,7 @@
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-361" value="等待完成" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1640" y="690" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xaCHMoIF9OAT6-QVO9_u-363" value="&lt;div&gt;所有侧推气缸-伸出&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-363" value="&lt;div&gt;所有侧推气缸-缩回&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1660" y="828.18" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
