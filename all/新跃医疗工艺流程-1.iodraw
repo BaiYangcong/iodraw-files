@@ -2559,6 +2559,9 @@
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-247" value="&lt;span style=&quot;text-align: center;&quot;&gt;Uint_ko[0]&amp;lt;2&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1720" y="2020" width="75" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-248" value="SV06-拍照位2" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="1660" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
