@@ -2621,7 +2621,7 @@
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-377" value="判断&lt;div&gt;位置标志&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-1920" y="246.82" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r_BJBnxC0qS7U0Uhq6-6-1" value="&lt;div&gt;ST10&lt;br&gt;&lt;/div&gt;撕膜工位" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="r_BJBnxC0qS7U0Uhq6-6-1" value="&lt;div&gt;ST05&lt;br&gt;&lt;/div&gt;切割工位" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="6130" y="890" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
