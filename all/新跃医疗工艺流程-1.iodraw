@@ -2322,10 +2322,10 @@
           <mxGeometry x="910" y="1280" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-71" value="SV03-安全高度&lt;br&gt;SV04-安全位" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="860" y="1380" width="120" height="40" as="geometry" />
+          <mxGeometry x="885" y="1410" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xaCHMoIF9OAT6-QVO9_u-72" value="拍照完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1187.53" width="120" height="40" as="geometry" />
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-72" value="流程开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="885" y="1350" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
