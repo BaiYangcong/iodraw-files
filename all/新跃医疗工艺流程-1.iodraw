@@ -2664,7 +2664,7 @@
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-342" value="FALSE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2760" y="567.5" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xaCHMoIF9OAT6-QVO9_u-348" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-343">
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-348" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-343" target="xaCHMoIF9OAT6-QVO9_u-349">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2730" y="930" as="targetPoint" />
           </mxGeometry>
@@ -2677,6 +2677,9 @@
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-347" value="右滑台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2920" y="855" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-349" value="Call&lt;div&gt;左滑台下料&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2672.5" y="940" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
