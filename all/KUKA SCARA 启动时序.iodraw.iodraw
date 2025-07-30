@@ -921,8 +921,11 @@
         <mxCell id="1o8SfZG4MfTJCTvZX68W-32" value="判断无&lt;div&gt;运行中&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="365" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1o8SfZG4MfTJCTvZX68W-33" value="判断无&lt;div&gt;运行中&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1o8SfZG4MfTJCTvZX68W-33" value="判断&lt;div&gt;系统就绪&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="495" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1o8SfZG4MfTJCTvZX68W-34" value="判断&lt;div&gt;系统就绪&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="505" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
