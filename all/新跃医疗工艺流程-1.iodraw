@@ -2481,7 +2481,7 @@
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-203" value="调用切割子流程" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1950" y="575.97" width="120" height="54.03" as="geometry" />
         </mxCell>
-        <mxCell id="xaCHMoIF9OAT6-QVO9_u-205" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-205" value="切割完成&lt;div&gt;BOOL_KO[83]=TRUE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1950" y="707.015" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
