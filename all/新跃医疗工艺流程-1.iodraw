@@ -2200,6 +2200,14 @@
         <mxCell id="Hx-9VKXHxY8fQxeszDJQ-11" value="取料完成&lt;div&gt;=FALSE&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-545" y="406.93" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Hx-9VKXHxY8fQxeszDJQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hx-9VKXHxY8fQxeszDJQ-13" target="Hx-9VKXHxY8fQxeszDJQ-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-585" y="552" />
+              <mxPoint x="-585" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Hx-9VKXHxY8fQxeszDJQ-13" value="Call&lt;div&gt;RB-ACT1&lt;/div&gt;&lt;div&gt;取料程序&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-565" y="525" width="120" height="55" as="geometry" />
         </mxCell>
