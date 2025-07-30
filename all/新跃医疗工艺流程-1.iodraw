@@ -2280,7 +2280,7 @@
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-13" value="拍照完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1125" y="1770" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xaCHMoIF9OAT6-QVO9_u-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-15">
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-15" target="xaCHMoIF9OAT6-QVO9_u-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1185" y="1982" as="targetPoint" />
           </mxGeometry>
@@ -2292,7 +2292,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-24" value="焊接完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="2045" width="120" height="40" as="geometry" />
+          <mxGeometry x="1125" y="1995" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-26" target="xaCHMoIF9OAT6-QVO9_u-28">
           <mxGeometry relative="1" as="geometry">
