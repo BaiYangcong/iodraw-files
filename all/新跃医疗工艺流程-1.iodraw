@@ -344,19 +344,19 @@
           <mxGeometry x="1980" y="320" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="582tL9GAFeUVrNcyL4z_-1" value="&lt;div&gt;ST06&lt;br&gt;&lt;/div&gt;RB2下料工位" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="2590" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="2810" y="30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="582tL9GAFeUVrNcyL4z_-10" value="自动流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2800" y="200" width="50" height="20" as="geometry" />
+          <mxGeometry x="2827.5" y="115.55" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-330" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="582tL9GAFeUVrNcyL4z_-12" target="xaCHMoIF9OAT6-QVO9_u-329">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="582tL9GAFeUVrNcyL4z_-12" value="允许&lt;br&gt;取料" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="2812.5" y="416.95000000000005" width="60" height="60" as="geometry" />
+          <mxGeometry x="2840" y="332.50000000000006" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="582tL9GAFeUVrNcyL4z_-13" value="等待移载工位呼叫" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2747.5" y="436.95000000000005" width="50" height="20" as="geometry" />
+          <mxGeometry x="2775" y="352.50000000000006" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-1" value="&lt;div&gt;ST07&lt;br&gt;&lt;/div&gt;人工上下料工位" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="3500" y="120" width="120" height="40" as="geometry" />
@@ -2603,10 +2603,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-304" value="复位流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2530" y="197.49999999999994" width="50" height="20" as="geometry" />
+          <mxGeometry x="2557.5" y="113.04999999999994" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-305" value="执行RB复位时序" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2530" y="297.49999999999994" width="50" height="20" as="geometry" />
+          <mxGeometry x="2557.5" y="213.04999999999995" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-306" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-308" target="xaCHMoIF9OAT6-QVO9_u-310">
           <mxGeometry relative="1" as="geometry" />
@@ -2683,13 +2683,13 @@
           <mxGeometry x="2985" y="1303.37" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-329" value="Call&lt;div&gt;柔振拍照&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2782.5" y="534.45" width="120" height="50" as="geometry" />
+          <mxGeometry x="2810" y="450.00000000000006" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-331" value="取料标志&lt;div&gt;BOOL_KO[85]&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2795" y="335.00000000000006" width="60" height="60" as="geometry" />
+          <mxGeometry x="2822.5" y="250.55000000000007" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-332" value="流程开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2760" y="250" width="120" height="40" as="geometry" />
+          <mxGeometry x="2787.5" y="165.55" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
