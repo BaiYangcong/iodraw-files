@@ -2569,8 +2569,14 @@
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-352" value="下料完成&lt;div&gt;BOOL_KO[85]=FALSE&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2792.5" y="1045" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-358" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-356" target="xaCHMoIF9OAT6-QVO9_u-357">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-356" value="SV07去起始位&lt;div&gt;BOOL_KO[90]=TRUE&lt;/div&gt;&lt;div&gt;BOOL_KO[91]=FALSE&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1660" y="365" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-357" value="&lt;div&gt;所有侧推气缸-伸出&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="485" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
