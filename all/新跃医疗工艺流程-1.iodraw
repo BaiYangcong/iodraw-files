@@ -2553,8 +2553,8 @@
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-242" value="拍照完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1770" y="1865" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xaCHMoIF9OAT6-QVO9_u-245" value="拍照完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="1985" width="120" height="40" as="geometry" />
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-245" value="判断切割次数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="1960" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
