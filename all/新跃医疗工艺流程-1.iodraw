@@ -2265,11 +2265,13 @@
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-7" value="等待移载工位呼叫" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1225" y="1462.79" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xaCHMoIF9OAT6-QVO9_u-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-9" target="xaCHMoIF9OAT6-QVO9_u-31">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1185" y="1689.9999999999995" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-9" value="SV05 下压" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1125" y="1615" width="120" height="40" as="geometry" />
+          <mxGeometry x="1125" y="1560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-11" target="xaCHMoIF9OAT6-QVO9_u-13">
           <mxGeometry relative="1" as="geometry" />
@@ -2335,11 +2337,10 @@
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-29" value="允许移载移动标志" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1425" y="1785" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xaCHMoIF9OAT6-QVO9_u-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-31" target="xaCHMoIF9OAT6-QVO9_u-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xaCHMoIF9OAT6-QVO9_u-31" value="SV04 去拍照位" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1125" y="1690" width="120" height="40" as="geometry" />
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="xaCHMoIF9OAT6-QVO9_u-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1185" y="1729.9999999999995" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-32" value="激活完成标志" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1445" y="2045" width="60" height="40" as="geometry" />
