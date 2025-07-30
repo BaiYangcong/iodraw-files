@@ -1260,7 +1260,7 @@
           <mxGeometry x="-1630" y="192.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-158" value="起始位" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1670" y="287.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1670" y="297.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-159" value="终点位" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1520" y="258.18" width="60" height="30" as="geometry" />
