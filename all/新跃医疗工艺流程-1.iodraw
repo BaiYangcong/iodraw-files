@@ -2333,8 +2333,14 @@
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-72" value="流程开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="885" y="1350" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-74" target="xaCHMoIF9OAT6-QVO9_u-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-74" value="SV04-拍照位1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="885" y="1557.79" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-76" value="拍照1触发" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="885" y="1677.79" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
