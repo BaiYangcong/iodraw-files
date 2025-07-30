@@ -2520,7 +2520,7 @@
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-230" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-231" target="xaCHMoIF9OAT6-QVO9_u-235">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xaCHMoIF9OAT6-QVO9_u-231" value="SV06-拍照位1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-231" value="SV06-拍照位1&lt;div&gt;Uint_ko[0]:=0&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1770" y="1437.79" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-233" target="xaCHMoIF9OAT6-QVO9_u-231">
