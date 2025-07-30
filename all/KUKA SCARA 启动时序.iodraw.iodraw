@@ -948,6 +948,9 @@
         <mxCell id="1o8SfZG4MfTJCTvZX68W-41" value="等待动作完成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1050" y="1480" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1o8SfZG4MfTJCTvZX68W-42" value="清除动作编号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="1625.63" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
