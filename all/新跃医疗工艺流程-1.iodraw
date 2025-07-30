@@ -2161,6 +2161,9 @@
         <mxCell id="gVV-v1JwQbaNhazeBH9O-119" value="&lt;b&gt;由移载工位复位&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-6120" y="536.1" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Hx-9VKXHxY8fQxeszDJQ-1" value="自动流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="187.5" width="50" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
