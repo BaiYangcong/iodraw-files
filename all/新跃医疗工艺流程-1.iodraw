@@ -2272,13 +2272,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-11" value="调用拍照流程" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1125" y="1660" width="120" height="40" as="geometry" />
+          <mxGeometry x="1125" y="1660" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-13" target="xaCHMoIF9OAT6-QVO9_u-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-13" value="拍照完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1125" y="1754" width="120" height="40" as="geometry" />
+          <mxGeometry x="1125" y="1770" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-15">
           <mxGeometry relative="1" as="geometry">
