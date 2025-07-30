@@ -2211,6 +2211,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Hx-9VKXHxY8fQxeszDJQ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hx-9VKXHxY8fQxeszDJQ-13" target="Hx-9VKXHxY8fQxeszDJQ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Hx-9VKXHxY8fQxeszDJQ-13" value="Call&lt;div&gt;RB-ACT1&lt;/div&gt;&lt;div&gt;取料程序&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-565" y="525" width="120" height="55" as="geometry" />
         </mxCell>
@@ -2229,8 +2232,11 @@
         <mxCell id="Hx-9VKXHxY8fQxeszDJQ-19" value="取料完成=TRUE&lt;div&gt;&lt;b&gt;上料完成&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;=FALSE&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;BOOL_KO[80&lt;/b&gt;]&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-332.5" y="398.81" width="75" height="73.69" as="geometry" />
         </mxCell>
-        <mxCell id="Hx-9VKXHxY8fQxeszDJQ-21" value="Call&lt;div&gt;RB-ACT1&lt;/div&gt;&lt;div&gt;取料程序&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Hx-9VKXHxY8fQxeszDJQ-21" value="Call&lt;div&gt;RB-ACT2&lt;/div&gt;&lt;div&gt;上料程序&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-355" y="523.6" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx-9VKXHxY8fQxeszDJQ-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-565" y="657.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
