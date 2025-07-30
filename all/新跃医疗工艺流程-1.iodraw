@@ -2250,6 +2250,9 @@
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-2" value="SV03-安全高度&lt;br&gt;SV04-安全位" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1125" y="1250" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-4" target="xaCHMoIF9OAT6-QVO9_u-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-4" value="SV02-SV05 去安全位" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1125" y="1330" width="120" height="40" as="geometry" />
         </mxCell>
@@ -2257,10 +2260,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-6" value="允许&lt;br&gt;上料" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="1520" width="60" height="60" as="geometry" />
+          <mxGeometry x="1155" y="1440" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-7" value="等待移载工位呼叫" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1225" y="1542.79" width="50" height="20" as="geometry" />
+          <mxGeometry x="1225" y="1462.79" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-9" target="xaCHMoIF9OAT6-QVO9_u-31">
           <mxGeometry relative="1" as="geometry" />
@@ -2340,21 +2343,6 @@
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-32" value="激活完成标志" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1445" y="2045" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="xaCHMoIF9OAT6-QVO9_u-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="xaCHMoIF9OAT6-QVO9_u-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1185" y="1460.0000000000005" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xaCHMoIF9OAT6-QVO9_u-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="xaCHMoIF9OAT6-QVO9_u-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1074.9645882352943" y="1472.7647058823532" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xaCHMoIF9OAT6-QVO9_u-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.106;entryY=0.535;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="xaCHMoIF9OAT6-QVO9_u-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1074.9645882352943" y="1552.7647058823532" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-45" value="自动流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1160" y="1210" width="50" height="20" as="geometry" />
