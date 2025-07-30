@@ -2182,8 +2182,8 @@
         <mxCell id="Hx-9VKXHxY8fQxeszDJQ-5" value="柔振取料" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-530" y="240" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Hx-9VKXHxY8fQxeszDJQ-7" value="自动流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="232.5" width="50" height="20" as="geometry" />
+        <mxCell id="Hx-9VKXHxY8fQxeszDJQ-7" value="移栽上料" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="239.71" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
