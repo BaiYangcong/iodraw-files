@@ -2687,7 +2687,7 @@
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-350" value="Call&lt;div&gt;右滑台下料&lt;/div&gt;&lt;div&gt;BOOL_KO[85]=TRUE&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2907.5" y="940" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xaCHMoIF9OAT6-QVO9_u-352" value="下料完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-352" value="下料完成&lt;div&gt;BOOL_KO[85]=FALSE&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2792.5" y="1045" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
