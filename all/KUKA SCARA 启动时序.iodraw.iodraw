@@ -1024,7 +1024,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Vh_0DEZHP8YEdRvX-iG-20" value="上料完成=TRUE" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="8Vh_0DEZHP8YEdRvX-iG-20" value="上料完成=TRUE&lt;div&gt;取料完成=FALSE&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1800" y="550" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
