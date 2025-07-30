@@ -2708,7 +2708,7 @@
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-335" value="TRUE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2895" y="245.68" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xaCHMoIF9OAT6-QVO9_u-337" value="允许&lt;br&gt;取料" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-337" value="&lt;br&gt;N" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2822.5" y="572.21" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
