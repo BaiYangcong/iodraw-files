@@ -11,7 +11,7 @@
           <mxGeometry x="120" y="90" width="535" height="990" as="geometry" />
         </mxCell>
         <mxCell id="1CHw0iVGNo8i6UnLCWiz-1" value="&lt;div&gt;ST03&lt;/div&gt;飞达工位" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="240" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="325" y="115" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1CHw0iVGNo8i6UnLCWiz-2" value="复位流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="200" width="50" height="20" as="geometry" />
