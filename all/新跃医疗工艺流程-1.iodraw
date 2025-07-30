@@ -1211,7 +1211,7 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.106;entryY=0.535;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="E55zB4H-8Qdmt3aLf9op-115" target="JTwCHe0VJaFvMz3cXA6Y-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-118" value="启动步&lt;div&gt;判断视觉检测是否可工作&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-118" value="流程开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1950" y="230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-119" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
