@@ -2640,6 +2640,14 @@
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-341" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-337" target="xaCHMoIF9OAT6-QVO9_u-340">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-344" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-337" target="xaCHMoIF9OAT6-QVO9_u-343">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2760" y="602" />
+              <mxPoint x="2760" y="825" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-337" value="NG&lt;div&gt;标志&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2822.5" y="572.21" width="60" height="60" as="geometry" />
         </mxCell>
