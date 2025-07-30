@@ -2681,10 +2681,10 @@
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-347" value="右滑台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2920" y="855" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xaCHMoIF9OAT6-QVO9_u-349" value="Call&lt;div&gt;左滑台下料&lt;/div&gt;&lt;div&gt;BOOL_KO[85]=TRUE&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-349" value="Call&lt;div&gt;左滑台下料&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2672.5" y="940" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xaCHMoIF9OAT6-QVO9_u-350" value="Call&lt;div&gt;右滑台下料&lt;/div&gt;&lt;div&gt;BOOL_KO[85]=TRUE&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-350" value="Call&lt;div&gt;右滑台下料&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2907.5" y="940" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-352" value="下料完成&lt;div&gt;BOOL_KO[85]=FALSE&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
