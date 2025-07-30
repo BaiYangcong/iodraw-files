@@ -2487,7 +2487,10 @@
           <mxGeometry x="1950" y="707.02" width="120" height="42.99" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-208" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1958.71" y="515" width="50" height="20" as="geometry" />
+          <mxGeometry x="2035" y="367.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-209" value="调用切割子流程" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="585.97" width="120" height="54.03" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
