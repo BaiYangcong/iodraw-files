@@ -2393,9 +2393,6 @@
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-94" value="SV03-焊接高度" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1220" y="1754" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xaCHMoIF9OAT6-QVO9_u-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-96" target="xaCHMoIF9OAT6-QVO9_u-97">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-96">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1220" y="1458" as="targetPoint" />
@@ -2404,6 +2401,9 @@
               <mxPoint x="1160" y="1458" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-96" target="xaCHMoIF9OAT6-QVO9_u-101">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-96" value="焊接触发" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1220" y="1855" width="120" height="40" as="geometry" />
@@ -2416,6 +2416,9 @@
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-100" value="Uint_ko[2]&lt;div&gt;&amp;gt;=2&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1360" y="1420" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-101" value="SV03-焊接高度" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1940" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
