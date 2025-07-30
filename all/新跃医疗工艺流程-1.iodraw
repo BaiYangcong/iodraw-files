@@ -1274,7 +1274,7 @@
           <mxGeometry x="-1730" y="225" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-160" value="均不在" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1510" y="227.21" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1490" y="185" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-172" value="故障提示" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-2150" y="272.5" width="120" height="40" as="geometry" />
