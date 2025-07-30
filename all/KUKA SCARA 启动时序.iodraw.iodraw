@@ -985,12 +985,11 @@
         </mxCell>
         <mxCell id="8Vh_0DEZHP8YEdRvX-iG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Vh_0DEZHP8YEdRvX-iG-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1900" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8Vh_0DEZHP8YEdRvX-iG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Vh_0DEZHP8YEdRvX-iG-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2060" y="500" as="targetPoint" />
+            <mxPoint x="1960" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1960" y="395" />
+              <mxPoint x="1960" y="500" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8Vh_0DEZHP8YEdRvX-iG-8" value="ActCompNo= xxx" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -1007,6 +1006,9 @@
         </mxCell>
         <mxCell id="8Vh_0DEZHP8YEdRvX-iG-17" value="ExeNo:= 0&lt;div&gt;流程完成&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2000" y="665" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8Vh_0DEZHP8YEdRvX-iG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Vh_0DEZHP8YEdRvX-iG-18" target="8Vh_0DEZHP8YEdRvX-iG-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Vh_0DEZHP8YEdRvX-iG-18" value="取料完成=TRUE" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1710" y="520" width="120" height="50" as="geometry" />
