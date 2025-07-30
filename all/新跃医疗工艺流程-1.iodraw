@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram id="RZ5iEGdob0T5iS_wzZQ6" name="第 1 页">
-    <mxGraphModel dx="8690" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8467" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -353,10 +353,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="582tL9GAFeUVrNcyL4z_-12" value="允许&lt;br&gt;取料" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="2795" y="245" width="60" height="60" as="geometry" />
+          <mxGeometry x="2795" y="318.47" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="582tL9GAFeUVrNcyL4z_-13" value="等待移载工位呼叫" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2730" y="265" width="50" height="20" as="geometry" />
+          <mxGeometry x="2730" y="338.47" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lZbUCRp-dfQrxNi3yWoC-1" value="&lt;div&gt;ST07&lt;br&gt;&lt;/div&gt;人工上下料工位" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="3500" y="120" width="120" height="40" as="geometry" />
@@ -2686,7 +2686,10 @@
           <mxGeometry x="2985" y="1303.37" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-329" value="Call&lt;div&gt;柔振拍照&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2765" y="362.5" width="120" height="50" as="geometry" />
+          <mxGeometry x="2765" y="435.97" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-331" value="允许&lt;br&gt;取料" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2805" y="328.47" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
