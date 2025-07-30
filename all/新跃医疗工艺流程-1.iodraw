@@ -2720,7 +2720,7 @@
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-339" value="TRUE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2792.5" y="637.5" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xaCHMoIF9OAT6-QVO9_u-340" value="Call&lt;div&gt;柔振拍照&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-340" value="Call&lt;div&gt;NG料盒下料&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2792.5" y="687.27" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
