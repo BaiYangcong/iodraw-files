@@ -2571,13 +2571,16 @@
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xaCHMoIF9OAT6-QVO9_u-250" target="xaCHMoIF9OAT6-QVO9_u-245">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1750" y="2180" />
-              <mxPoint x="1750" y="1980" />
+              <mxPoint x="1690" y="2180" />
+              <mxPoint x="1690" y="1980" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xaCHMoIF9OAT6-QVO9_u-250" value="切割触发&lt;div&gt;Uint_ko[0]+=1&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1770" y="2160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-253" value="&lt;span style=&quot;text-align: center;&quot;&gt;Uint_ko[0]&amp;gt;=2&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1917.5" y="1960" width="75" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
