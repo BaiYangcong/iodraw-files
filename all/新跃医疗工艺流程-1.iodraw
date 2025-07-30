@@ -2200,8 +2200,8 @@
         <mxCell id="Hx-9VKXHxY8fQxeszDJQ-11" value="取料完成&lt;div&gt;=FALSE&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-545" y="406.93" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Hx-9VKXHxY8fQxeszDJQ-13" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-565" y="525.0000000000001" width="120" height="80" as="geometry" />
+        <mxCell id="Hx-9VKXHxY8fQxeszDJQ-13" value="Call&lt;div&gt;RB-ACT1&lt;/div&gt;&lt;div&gt;取料程序&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-565" y="525" width="120" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
