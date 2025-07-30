@@ -894,7 +894,7 @@
         <mxCell id="1o8SfZG4MfTJCTvZX68W-21" value="Running=TRUE" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1170" y="1157.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1o8SfZG4MfTJCTvZX68W-23" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="1o8SfZG4MfTJCTvZX68W-23" value="ExeNo:=15" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1150" y="1317.5" width="120" height="62.5" as="geometry" />
         </mxCell>
       </root>
