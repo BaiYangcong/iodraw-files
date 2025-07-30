@@ -2188,8 +2188,14 @@
         <mxCell id="Hx-9VKXHxY8fQxeszDJQ-7" value="移栽上料" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-320" y="239.71" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Hx-9VKXHxY8fQxeszDJQ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hx-9VKXHxY8fQxeszDJQ-9" target="Hx-9VKXHxY8fQxeszDJQ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Hx-9VKXHxY8fQxeszDJQ-9" value="Call&lt;div&gt;柔振拍照&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-565" y="310" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx-9VKXHxY8fQxeszDJQ-11" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-545" y="425" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
