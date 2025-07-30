@@ -300,7 +300,7 @@
           <mxGeometry x="1420" y="3075" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTwCHe0VJaFvMz3cXA6Y-60" value="&lt;div&gt;ST05&lt;br&gt;&lt;/div&gt;切割工位" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1790" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="2042.5" y="30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTwCHe0VJaFvMz3cXA6Y-61" value="复位流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1745" y="200" width="50" height="20" as="geometry" />
