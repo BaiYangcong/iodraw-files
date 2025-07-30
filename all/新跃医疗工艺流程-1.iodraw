@@ -2223,7 +2223,7 @@
         <mxCell id="Hx-9VKXHxY8fQxeszDJQ-17" value="移栽允许&lt;div&gt;上料&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-332.5" y="296.31" width="75" height="73.69" as="geometry" />
         </mxCell>
-        <mxCell id="Hx-9VKXHxY8fQxeszDJQ-19" value="移栽允许&lt;div&gt;上料&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Hx-9VKXHxY8fQxeszDJQ-19" value="取料完成=TRUE&lt;div&gt;上料完成&lt;/div&gt;&lt;div&gt;=FALSE&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-332.5" y="398.81" width="75" height="73.69" as="geometry" />
         </mxCell>
       </root>
