@@ -352,9 +352,6 @@
             <mxPoint x="2200.076923076924" y="545.0769230769231" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JTwCHe0VJaFvMz3cXA6Y-121" value="等待移载工位呼叫" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1925" y="340" width="50" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="582tL9GAFeUVrNcyL4z_-1" value="&lt;div&gt;ST06&lt;br&gt;&lt;/div&gt;RB2下料工位" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2590" y="120" width="120" height="40" as="geometry" />
         </mxCell>
@@ -1213,9 +1210,6 @@
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-118" value="流程开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1950" y="230" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-119" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2010" y="285" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-124" value="V12-缩回" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="3546" y="250" width="120" height="40" as="geometry" />
