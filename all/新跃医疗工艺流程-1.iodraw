@@ -1253,6 +1253,9 @@
             <mxPoint x="-1600" y="322.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xaCHMoIF9OAT6-QVO9_u-372" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E55zB4H-8Qdmt3aLf9op-156" target="xaCHMoIF9OAT6-QVO9_u-367">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-156" value="初始步&lt;br&gt;判断SV07位置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-1660" y="240" width="120" height="40" as="geometry" />
         </mxCell>
@@ -1263,7 +1266,7 @@
           <mxGeometry x="-1670" y="297.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-159" value="终点位" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1520" y="258.18" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1850" y="288.81" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E55zB4H-8Qdmt3aLf9op-160" target="E55zB4H-8Qdmt3aLf9op-163" edge="1">
           <mxGeometry relative="1" as="geometry">
