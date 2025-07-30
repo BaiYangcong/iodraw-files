@@ -1273,20 +1273,14 @@
         <mxCell id="E55zB4H-8Qdmt3aLf9op-159" value="终点位" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1730" y="225" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E55zB4H-8Qdmt3aLf9op-160" target="E55zB4H-8Qdmt3aLf9op-163" edge="1">
+        <mxCell id="E55zB4H-8Qdmt3aLf9op-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E55zB4H-8Qdmt3aLf9op-160" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1400" y="235" as="targetPoint" />
+            <mxPoint x="-1390" y="230" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-160" value="均不在" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1520" y="215" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-163" value="故障提示" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1390" y="210" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="E55zB4H-8Qdmt3aLf9op-164" value="起始&amp;amp;终点&lt;div&gt;之间&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1430" y="262.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1530" y="237.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E55zB4H-8Qdmt3aLf9op-172" value="故障提示" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-2150" y="272.5" width="120" height="40" as="geometry" />
