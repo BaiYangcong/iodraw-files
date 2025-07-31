@@ -1,0 +1,429 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="34NHovAFqBtYgOvBa28Q" name="第 1 页">
+    <mxGraphModel dx="1687" dy="2162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-2" value="Step460:&lt;br&gt;获取测试结果&lt;br&gt;M602\603、M600\601、&lt;br&gt;M604\605、&lt;br&gt;M606\607" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="150" y="140" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-4" value="Step470:&lt;br&gt;根据结果跳转" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="170" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-5" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-2" target="WMLTRMgQbWKi9LTjpp3X-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="300" as="sourcePoint" />
+            <mxPoint x="300" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-7" value="" style="endArrow=none;html=1;strokeWidth=4;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="330" as="sourcePoint" />
+            <mxPoint x="280" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-10" target="WMLTRMgQbWKi9LTjpp3X-68" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="1680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="360" />
+              <mxPoint x="60" y="1635" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-10" value="&lt;font color=&quot;#ff0000&quot;&gt;全NG：&lt;br&gt;跳转600&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="340" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-11" value="有OK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="350" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-12" value="Step471:&lt;br&gt;判断左夹爪状态" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="200" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;entryX=0.5;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="WMLTRMgQbWKi9LTjpp3X-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="370" as="sourcePoint" />
+            <mxPoint x="239.86" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-14" value="" style="endArrow=none;html=1;strokeWidth=4;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="470" as="sourcePoint" />
+            <mxPoint x="310" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-15" target="WMLTRMgQbWKi9LTjpp3X-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-15" value="OK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="480" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-16" target="WMLTRMgQbWKi9LTjpp3X-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="599.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-16" value="&lt;font color=&quot;#ff0000&quot;&gt;NG:&lt;br&gt;跳转474&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="260" y="480" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-17" target="WMLTRMgQbWKi9LTjpp3X-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-17" value="Step472-473:&lt;br&gt;左针脚拍照" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="130" y="545" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-19" value="Step474-475:&lt;br&gt;判断右夹爪状态" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="210" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-24" value="" style="endArrow=none;html=1;strokeWidth=4;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="690" as="sourcePoint" />
+            <mxPoint x="320" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-25" target="WMLTRMgQbWKi9LTjpp3X-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-25" value="OK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="700" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-26" target="WMLTRMgQbWKi9LTjpp3X-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-26" value="&lt;font color=&quot;#ff0000&quot;&gt;NG:&lt;br&gt;跳转478&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="700" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-27" target="WMLTRMgQbWKi9LTjpp3X-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="885" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-27" value="Step476-477:&lt;br&gt;右针脚拍照" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="140" y="760" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-29" value="Step478-479:&lt;br&gt;根据结果判断放料状态" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="210" y="820" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-34" value="" style="endArrow=none;html=1;strokeWidth=4;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="900" as="sourcePoint" />
+            <mxPoint x="420" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-36" value="测试结束+结合针脚检测结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="850" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-37" target="WMLTRMgQbWKi9LTjpp3X-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-37" value="测试&amp;amp;检测=OK&lt;br&gt;1.左测试OK+左检测OK&lt;br&gt;2.右测试OK+右检测OK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="910" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;entryX=0.993;entryY=0.643;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-38" target="WMLTRMgQbWKi9LTjpp3X-68" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="1640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="945" />
+              <mxPoint x="530" y="1642" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-38" target="WMLTRMgQbWKi9LTjpp3X-68" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="1640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="945" />
+              <mxPoint x="550" y="1635" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-38" value="NG情况&lt;br&gt;1.左检测&amp;amp;右检测=NG：&lt;font color=&quot;#ff0000&quot;&gt;测试OK&lt;/font&gt;&lt;br&gt;2.测试均NG&lt;br&gt;3.左测试OK+右测试NG+左检测NG&lt;br&gt;4.左测试NG+右测试OK+右检测NG&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;跳转Step600&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="910" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-39" target="WMLTRMgQbWKi9LTjpp3X-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-39" value="Step480:&lt;br&gt;判断OK料放料位置" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1000" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-41" value="往复运动的载具，同时只能上料一个" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1010" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-43" target="WMLTRMgQbWKi9LTjpp3X-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-43" value="Step490-500:&lt;br&gt;去OK放料位" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="100" y="1130" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-45" value="Step510:&lt;br&gt;判断执行放料夹爪" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="235" y="1210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-48" value="" style="endArrow=none;html=1;strokeWidth=4;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="1290" as="sourcePoint" />
+            <mxPoint x="365" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-50" target="WMLTRMgQbWKi9LTjpp3X-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="182.5" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-50" value="均OK：测试+检测" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="145" y="1300" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.521;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;strokeWidth=1;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-51" target="WMLTRMgQbWKi9LTjpp3X-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-51" value="左测NG+右测OK+右拍OK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="222.5" y="1300" width="92.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-52" target="WMLTRMgQbWKi9LTjpp3X-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-52" value="左测OK+右测NG+左拍NG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="315" y="1300" width="92.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-53" target="WMLTRMgQbWKi9LTjpp3X-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-53" target="WMLTRMgQbWKi9LTjpp3X-60" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="1530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="1503" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-53" value="Step520-525:&lt;br&gt;两气缸下降放料" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="100" y="1360" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-60" target="WMLTRMgQbWKi9LTjpp3X-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-60" value="Step550-560:&lt;br&gt;放料完成上升" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="225" y="1480" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-62" value="Step530:&lt;br&gt;右气缸下降放料" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="222.5" y="1360" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-64" target="WMLTRMgQbWKi9LTjpp3X-60" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="402.5" y="1510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="403" y="1480" />
+              <mxPoint x="403" y="1480" />
+              <mxPoint x="403" y="1503" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-64" value="Step540:&lt;br&gt;左气缸下降放料" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="342.5" y="1360" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-68" target="WMLTRMgQbWKi9LTjpp3X-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-68" value="Step600:&lt;br&gt;OK料放料完成，&lt;br&gt;执行NG料放料" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="335" y="1610" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-73" value="Step610:&lt;br&gt;判断右夹爪NG状态&lt;br&gt;决定定位位置" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="355" y="1690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-75" value="" style="endArrow=none;html=1;strokeWidth=4;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="305" y="1770" as="sourcePoint" />
+            <mxPoint x="485" y="1770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-76" value="测试OK+&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;检测NG&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="282.5" y="1780" width="67.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-77" value="测试NG+&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;测试NG&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="361.25" y="1780" width="67.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;strokeColor=#33FF33;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-78" target="WMLTRMgQbWKi9LTjpp3X-86" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="2040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="474" y="1970" />
+              <mxPoint x="474" y="2043" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-78" value="测试OK+&lt;br&gt;检测OK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="1780" width="67.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-79" value="" style="endArrow=none;html=1;strokeWidth=4;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="305.0000000000001" y="1850" as="sourcePoint" />
+            <mxPoint x="400" y="1850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-81" value="&lt;font color=&quot;#ff0000&quot;&gt;根据NG状态赋值NG料位&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="305" y="1820" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-84" target="WMLTRMgQbWKi9LTjpp3X-86" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-84" value="Step620-660:&lt;br&gt;执行右夹爪放料" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="294" y="1890" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-86" target="WMLTRMgQbWKi9LTjpp3X-91" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="2095" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-86" value="Step665:&lt;br&gt;上升安全位" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="294" y="1970" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-85" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="WMLTRMgQbWKi9LTjpp3X-84" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="354" y="1850" as="sourcePoint" />
+            <mxPoint x="420" y="1880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-91" value="Step680:&lt;br&gt;判断左夹爪NG状态&lt;br&gt;决定定位位置" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="314" y="2070" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-92" value="" style="endArrow=none;html=1;strokeWidth=4;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="264.0000000000001" y="2150" as="sourcePoint" />
+            <mxPoint x="444" y="2150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-93" value="测试OK+&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;检测NG&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="241.5" y="2160" width="67.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-94" value="测试NG+&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;测试NG&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="320.25" y="2160" width="67.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-95" value="测试OK+&lt;br&gt;检测OK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="399" y="2160" width="67.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-96" value="" style="endArrow=none;html=1;strokeWidth=4;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="271" y="2220" as="sourcePoint" />
+            <mxPoint x="366" y="2220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-97" value="&lt;font color=&quot;#ff0000&quot;&gt;根据NG状态赋值NG料位&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="271" y="2190" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-99" target="WMLTRMgQbWKi9LTjpp3X-100" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-99" value="Step700-730:&lt;br&gt;执行左夹爪放料" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="260" y="2260" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-100" target="WMLTRMgQbWKi9LTjpp3X-104" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="2420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-100" value="Step740:&lt;br&gt;上升安全位" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="260" y="2340" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-101" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="WMLTRMgQbWKi9LTjpp3X-99" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2220" as="sourcePoint" />
+            <mxPoint x="386" y="2250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-104" target="WMLTRMgQbWKi9LTjpp3X-107" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="2460" />
+              <mxPoint x="690" y="85" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-104" target="WMLTRMgQbWKi9LTjpp3X-113" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="2460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-104" value="Step752:&lt;br&gt;判断取料次数" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="280" y="2420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-107" target="WMLTRMgQbWKi9LTjpp3X-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-107" value="Step310-450:&lt;br&gt;这一段是取料动作&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="282.5" y="40" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-109" value="&lt;font style=&quot;font-size: 15px&quot;&gt;取料次数=1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="372.5" y="2430" width="67.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-112" value="&lt;font style=&quot;font-size: 15px&quot;&gt;取料次数=2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="212.5" y="2420" width="67.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-113" target="WMLTRMgQbWKi9LTjpp3X-115" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="-40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="20" y="2460" />
+              <mxPoint x="20" y="-55" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-113" value="取料完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="110" y="2432.5" width="80" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-115" target="WMLTRMgQbWKi9LTjpp3X-107" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-115" value="等待倍速链到料" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="288.75" y="-80" width="107.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-119" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#33ff33&quot;&gt;必定有测试OK&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="342.5" y="462" width="40" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-120" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#ff0000&quot;&gt;测试全NG&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="530" width="40" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-121" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#b85450;strokeWidth=1;entryX=0.813;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-122" target="WMLTRMgQbWKi9LTjpp3X-77" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1830" as="sourcePoint" />
+            <mxPoint x="402.5" y="1810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="1850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-122" value="对此逻辑增加扫码NG跳转：&lt;br&gt;&lt;b&gt;将定位坐标赋值修改掉即可&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="530" y="1780" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-123" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#b85450;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.848;entryY=1.158;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-122" target="WMLTRMgQbWKi9LTjpp3X-94" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="1840" as="sourcePoint" />
+            <mxPoint x="470" y="2290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="2220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMLTRMgQbWKi9LTjpp3X-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;strokeColor=#33FF33;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WMLTRMgQbWKi9LTjpp3X-95" target="WMLTRMgQbWKi9LTjpp3X-100" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="387.75" y="2385" as="targetPoint" />
+            <mxPoint x="447.5" y="2192.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="433" y="2363" />
+              <mxPoint x="388" y="2363" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
