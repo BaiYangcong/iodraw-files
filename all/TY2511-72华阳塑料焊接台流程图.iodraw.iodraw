@@ -1,6 +1,6 @@
 <mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="K_Zr0JyrUekMHXR36TaH">
-    <mxGraphModel dx="2206" dy="1298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,81 +122,81 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-33" value="判断工位是否有料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010.0900000000001" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="780.0000000000001" y="205" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66-ShXu1I_7WRPBwB11A-35" target="66-ShXu1I_7WRPBwB11A-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-35" value="判断是否焊接工位完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010.0900000000001" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="780.0000000000001" y="65" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66-ShXu1I_7WRPBwB11A-37" target="66-ShXu1I_7WRPBwB11A-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-37" value="等待上料工位送料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010.0900000000001" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="780.0000000000001" y="355" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66-ShXu1I_7WRPBwB11A-39">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1070.0900000000001" y="630" as="targetPoint" />
+            <mxPoint x="840.0000000000001" y="625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-39" value="等待托盘到位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010.0900000000001" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="780.0000000000001" y="485" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66-ShXu1I_7WRPBwB11A-41" target="66-ShXu1I_7WRPBwB11A-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-41" value="执行焊接流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010.0900000000001" y="950" width="120" height="60" as="geometry" />
+          <mxGeometry x="780.0000000000001" y="945" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66-ShXu1I_7WRPBwB11A-43" target="66-ShXu1I_7WRPBwB11A-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-43" value="送料至移栽平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010.0900000000001" y="1030" width="120" height="60" as="geometry" />
+          <mxGeometry x="780.0000000000001" y="1025" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="66-ShXu1I_7WRPBwB11A-45" target="66-ShXu1I_7WRPBwB11A-35">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="910.0900000000001" y="160" as="targetPoint" />
+            <mxPoint x="680.0000000000001" y="155" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="870" y="1140" />
-              <mxPoint x="870" y="100" />
+              <mxPoint x="639.91" y="1135" />
+              <mxPoint x="639.91" y="95" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-45" value="焊接工位完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010.0900000000001" y="1109" width="120" height="60" as="geometry" />
+          <mxGeometry x="780.0000000000001" y="1104" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-46" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1030.0900000000001" y="160" width="40" height="30" as="geometry" />
+          <mxGeometry x="800.0000000000001" y="155" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66-ShXu1I_7WRPBwB11A-48" target="66-ShXu1I_7WRPBwB11A-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-48" value="执行检测流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010.0900000000001" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="780.0000000000001" y="835" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66-ShXu1I_7WRPBwB11A-50" target="66-ShXu1I_7WRPBwB11A-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-50" value="执行测距流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010.0900000000001" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="780.0000000000001" y="745" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-51" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1030.0900000000001" y="300" width="40" height="30" as="geometry" />
+          <mxGeometry x="800.0000000000001" y="295" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-52" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1150.0900000000001" y="290" width="40" height="30" as="geometry" />
+          <mxGeometry x="920.0000000000001" y="285" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-53" value="工位2：左顶升工位" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="935.2" y="10" width="240" height="40" as="geometry" />
+          <mxGeometry x="705.11" y="5" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66-ShXu1I_7WRPBwB11A-55" target="66-ShXu1I_7WRPBwB11A-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-55" value="执行焊前拍照流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010.0900000000001" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="780.0000000000001" y="625" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66-ShXu1I_7WRPBwB11A-58" target="66-ShXu1I_7WRPBwB11A-62">
           <mxGeometry relative="1" as="geometry" />
@@ -205,82 +205,82 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-58" value="判断工位是否有料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530.0900000000001" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="1300.0000000000002" y="205" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66-ShXu1I_7WRPBwB11A-60" target="66-ShXu1I_7WRPBwB11A-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-60" value="判断是否焊接工位完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530.0900000000001" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="1300.0000000000002" y="65" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66-ShXu1I_7WRPBwB11A-62" target="66-ShXu1I_7WRPBwB11A-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-62" value="等待上料工位送料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530.0900000000001" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="1300.0000000000002" y="355" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66-ShXu1I_7WRPBwB11A-64">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1590.0900000000001" y="630" as="targetPoint" />
+            <mxPoint x="1360.0000000000002" y="625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-64" value="等待托盘到位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530.0900000000001" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="1300.0000000000002" y="485" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66-ShXu1I_7WRPBwB11A-66" target="66-ShXu1I_7WRPBwB11A-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-66" value="执行检测流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530.0900000000001" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="1300.0000000000002" y="885" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66-ShXu1I_7WRPBwB11A-68" target="66-ShXu1I_7WRPBwB11A-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-68" value="送料至移栽平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530.0900000000001" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="1300.0000000000002" y="985" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="66-ShXu1I_7WRPBwB11A-70" target="66-ShXu1I_7WRPBwB11A-60">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1430.0900000000001" y="160" as="targetPoint" />
+            <mxPoint x="1200.0000000000002" y="155" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1530" y="1130" />
-              <mxPoint x="1390" y="1130" />
-              <mxPoint x="1390" y="100" />
+              <mxPoint x="1299.91" y="1125" />
+              <mxPoint x="1159.91" y="1125" />
+              <mxPoint x="1159.91" y="95" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-70" value="焊接工位完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530.0900000000001" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="1300.0000000000002" y="1085" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-71" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1550.0900000000001" y="160" width="40" height="30" as="geometry" />
+          <mxGeometry x="1320.0000000000002" y="155" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66-ShXu1I_7WRPBwB11A-73" target="66-ShXu1I_7WRPBwB11A-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-73" value="执行焊接流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530.0900000000001" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="1300.0000000000002" y="805" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66-ShXu1I_7WRPBwB11A-75" target="66-ShXu1I_7WRPBwB11A-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-75" value="执行测距流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530.0900000000001" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="1300.0000000000002" y="715" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-76" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1550.0900000000001" y="300" width="40" height="30" as="geometry" />
+          <mxGeometry x="1320.0000000000002" y="295" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-77" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1670.0900000000001" y="290" width="40" height="30" as="geometry" />
+          <mxGeometry x="1440.0000000000002" y="285" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-78" value="工位三：右顶升工位" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1450.2" y="10" width="250" height="40" as="geometry" />
+          <mxGeometry x="1220.1100000000001" y="5" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66-ShXu1I_7WRPBwB11A-80" target="66-ShXu1I_7WRPBwB11A-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="66-ShXu1I_7WRPBwB11A-80" value="执行焊前拍照流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530.0900000000001" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="1300.0000000000002" y="625" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
