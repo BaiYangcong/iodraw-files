@@ -230,9 +230,6 @@
         <mxCell id="JsFupb55QDsTwEdgy-VX-245" value="翻转工位工作完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1910" y="3440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JsFupb55QDsTwEdgy-VX-250" value="防水帽激光焊接台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=69;" vertex="1" parent="1">
-          <mxGeometry x="790" y="1863" width="580" height="100" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
