@@ -236,11 +236,17 @@
         <mxCell id="CV9opn47tMgbwoLVdmxL-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CV9opn47tMgbwoLVdmxL-7" source="CV9opn47tMgbwoLVdmxL-25" target="CV9opn47tMgbwoLVdmxL-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CV9opn47tMgbwoLVdmxL-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CV9opn47tMgbwoLVdmxL-7" source="CV9opn47tMgbwoLVdmxL-25" target="CV9opn47tMgbwoLVdmxL-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CV9opn47tMgbwoLVdmxL-25" value="小批量跑机&lt;div&gt;CT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CV9opn47tMgbwoLVdmxL-7">
           <mxGeometry x="50" y="1180" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CV9opn47tMgbwoLVdmxL-27" value="技术协议&lt;div&gt;要求复查&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CV9opn47tMgbwoLVdmxL-7">
           <mxGeometry x="50" y="1290" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CV9opn47tMgbwoLVdmxL-31" value="小批量跑机&lt;div&gt;CT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CV9opn47tMgbwoLVdmxL-7">
+          <mxGeometry x="220" y="1180" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CV9opn47tMgbwoLVdmxL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="N23LELdq8p_NCfSfyuuc-79" source="N23LELdq8p_NCfSfyuuc-124" target="CV9opn47tMgbwoLVdmxL-11">
           <mxGeometry relative="1" as="geometry">
