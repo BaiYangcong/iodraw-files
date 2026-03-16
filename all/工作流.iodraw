@@ -1,11 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="u1SSNrfgTQyu487oR-md" name="Page-1">
-    <mxGraphModel dx="1687" dy="2162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="N23LELdq8p_NCfSfyuuc-79" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;glass=0;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry y="-70" width="1240" height="1510" as="geometry" />
+          <mxGeometry x="-10" y="-70" width="1240" height="1510" as="geometry" />
         </mxCell>
         <mxCell id="N23LELdq8p_NCfSfyuuc-80" value="机械研发" style="swimlane;startSize=20;html=1;" parent="N23LELdq8p_NCfSfyuuc-79" vertex="1">
           <mxGeometry y="20" width="170" height="1490" as="geometry">
@@ -252,20 +252,20 @@
         <mxCell id="CV9opn47tMgbwoLVdmxL-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CV9opn47tMgbwoLVdmxL-7" source="CV9opn47tMgbwoLVdmxL-25" target="CV9opn47tMgbwoLVdmxL-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CV9opn47tMgbwoLVdmxL-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CV9opn47tMgbwoLVdmxL-7" source="CV9opn47tMgbwoLVdmxL-25" target="CV9opn47tMgbwoLVdmxL-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CV9opn47tMgbwoLVdmxL-25" value="小批量跑机&lt;div&gt;CT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CV9opn47tMgbwoLVdmxL-7">
           <mxGeometry x="78.49000000000001" y="1200" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CV9opn47tMgbwoLVdmxL-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CV9opn47tMgbwoLVdmxL-7" source="CV9opn47tMgbwoLVdmxL-27" target="CV9opn47tMgbwoLVdmxL-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CV9opn47tMgbwoLVdmxL-27" value="技术协议&lt;div&gt;要求复查&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CV9opn47tMgbwoLVdmxL-7">
           <mxGeometry x="78.49000000000001" y="1310" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CV9opn47tMgbwoLVdmxL-31" value="1.设备优化提升建议" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CV9opn47tMgbwoLVdmxL-7">
-          <mxGeometry x="226.86" y="1200" width="130" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="CV9opn47tMgbwoLVdmxL-49" value="1.问题反馈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CV9opn47tMgbwoLVdmxL-7">
           <mxGeometry x="226.86" y="1090" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CV9opn47tMgbwoLVdmxL-56" value="1.设备优化提升建议" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CV9opn47tMgbwoLVdmxL-7">
+          <mxGeometry x="60.000000000000114" y="1410" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CV9opn47tMgbwoLVdmxL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="N23LELdq8p_NCfSfyuuc-79" source="N23LELdq8p_NCfSfyuuc-124" target="CV9opn47tMgbwoLVdmxL-11">
           <mxGeometry relative="1" as="geometry">
@@ -279,9 +279,6 @@
           <mxGeometry x="0.9315" y="-3" relative="1" as="geometry">
             <mxPoint y="-13" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="CV9opn47tMgbwoLVdmxL-56" value="1.设备优化提升建议" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1076.8600000000001" y="1160" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
