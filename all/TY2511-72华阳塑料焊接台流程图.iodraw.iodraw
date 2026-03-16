@@ -47,7 +47,7 @@
           <mxGeometry x="794.91" y="1190" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-179" value="工位三：翻转工位" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1334.91" y="1180" width="220" height="40" as="geometry" />
+          <mxGeometry x="1160" y="1169" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JsFupb55QDsTwEdgy-VX-184" target="JsFupb55QDsTwEdgy-VX-188">
           <mxGeometry relative="1" as="geometry" />
@@ -160,75 +160,75 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-221" value="判断工位有无产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1393.91" y="1320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1219" y="1309" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JsFupb55QDsTwEdgy-VX-222" target="JsFupb55QDsTwEdgy-VX-224">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-222" value="等待托盘到位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1393.91" y="1400" width="120" height="60" as="geometry" />
+          <mxGeometry x="1219" y="1389" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JsFupb55QDsTwEdgy-VX-224" target="JsFupb55QDsTwEdgy-VX-231">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-224" value="夹爪升降轴到工作位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1393.91" y="1490" width="120" height="60" as="geometry" />
+          <mxGeometry x="1219" y="1479" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JsFupb55QDsTwEdgy-VX-225">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1454.0678947368422" y="1760" as="targetPoint" />
+            <mxPoint x="1279.157894736842" y="1749" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-225" value="夹爪夹紧" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1393.91" y="1670" width="120" height="60" as="geometry" />
+          <mxGeometry x="1219" y="1659" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JsFupb55QDsTwEdgy-VX-228" target="JsFupb55QDsTwEdgy-VX-229">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-228" value="夹爪升降轴到翻转位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1393.91" y="1763" width="120" height="60" as="geometry" />
+          <mxGeometry x="1219" y="1752" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JsFupb55QDsTwEdgy-VX-229" target="JsFupb55QDsTwEdgy-VX-230">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-229" value="夹爪翻转气缸伸出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1397.91" y="1840" width="120" height="60" as="geometry" />
+          <mxGeometry x="1223" y="1829" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JsFupb55QDsTwEdgy-VX-230" target="JsFupb55QDsTwEdgy-VX-232">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-230" value="夹爪升降轴到放料位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1397.91" y="1930" width="120" height="60" as="geometry" />
+          <mxGeometry x="1223" y="1919" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JsFupb55QDsTwEdgy-VX-231" target="JsFupb55QDsTwEdgy-VX-225">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-231" value="夹爪位移气缸伸出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1393.91" y="1580" width="120" height="60" as="geometry" />
+          <mxGeometry x="1219" y="1569" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JsFupb55QDsTwEdgy-VX-232" target="JsFupb55QDsTwEdgy-VX-233">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-232" value="夹爪松开" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1393.91" y="2030" width="120" height="60" as="geometry" />
+          <mxGeometry x="1219" y="2019" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JsFupb55QDsTwEdgy-VX-233" target="JsFupb55QDsTwEdgy-VX-234">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-233" value="夹爪位移气缸缩回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1397.91" y="2140" width="120" height="60" as="geometry" />
+          <mxGeometry x="1223" y="2129" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JsFupb55QDsTwEdgy-VX-234" target="JsFupb55QDsTwEdgy-VX-245">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-234" value="夹爪升降轴到待机位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1393.91" y="2240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1219" y="2229" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JsFupb55QDsTwEdgy-VX-245" target="JsFupb55QDsTwEdgy-VX-221">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JsFupb55QDsTwEdgy-VX-245" value="翻转工位工作完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560.0000000000002" y="2210" width="120" height="60" as="geometry" />
+          <mxGeometry x="1385.0900000000001" y="2199" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
