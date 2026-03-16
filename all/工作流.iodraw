@@ -1,0 +1,204 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="u1SSNrfgTQyu487oR-md" name="Page-1">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="N23LELdq8p_NCfSfyuuc-79" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;glass=0;swimlaneLine=1;" parent="1" vertex="1">
+          <mxGeometry width="400" height="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-80" value="机械研发" style="swimlane;startSize=20;html=1;" parent="N23LELdq8p_NCfSfyuuc-79" vertex="1">
+          <mxGeometry y="20" width="170" height="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-90" value="机构3D" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="N23LELdq8p_NCfSfyuuc-80" vertex="1">
+          <mxGeometry x="50" y="430" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-84" value="设备分布&lt;span style=&quot;background-color: initial;&quot;&gt;及&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;配&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;置&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;确认表&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="N23LELdq8p_NCfSfyuuc-80" vertex="1">
+          <mxGeometry x="50" y="50" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N23LELdq8p_NCfSfyuuc-79" source="N23LELdq8p_NCfSfyuuc-90" target="N23LELdq8p_NCfSfyuuc-88" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-97" value="输入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="N23LELdq8p_NCfSfyuuc-92" vertex="1" connectable="0">
+          <mxGeometry x="-0.0265" y="1" relative="1" as="geometry">
+            <mxPoint x="82" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N23LELdq8p_NCfSfyuuc-79" source="N23LELdq8p_NCfSfyuuc-100" target="N23LELdq8p_NCfSfyuuc-117" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N23LELdq8p_NCfSfyuuc-79" source="N23LELdq8p_NCfSfyuuc-105" target="N23LELdq8p_NCfSfyuuc-117" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="240" />
+              <mxPoint x="520" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-116" value="输入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="N23LELdq8p_NCfSfyuuc-114" vertex="1" connectable="0">
+          <mxGeometry x="0.7335" y="1" relative="1" as="geometry">
+            <mxPoint x="20" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-81" value="电气研发" style="swimlane;startSize=20;html=1;glass=0;swimlaneLine=1;shadow=0;rounded=0;" parent="N23LELdq8p_NCfSfyuuc-79" vertex="1" collapsed="1">
+          <mxGeometry x="170" y="20" width="40" height="1140" as="geometry">
+            <mxRectangle x="170" y="20" width="460" height="1140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N23LELdq8p_NCfSfyuuc-81" source="N23LELdq8p_NCfSfyuuc-83" target="N23LELdq8p_NCfSfyuuc-86" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-83" value="3D&lt;div&gt;评审&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="N23LELdq8p_NCfSfyuuc-81" vertex="1">
+          <mxGeometry x="55" y="50" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N23LELdq8p_NCfSfyuuc-81" source="N23LELdq8p_NCfSfyuuc-86" target="N23LELdq8p_NCfSfyuuc-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N23LELdq8p_NCfSfyuuc-81" source="N23LELdq8p_NCfSfyuuc-86" target="N23LELdq8p_NCfSfyuuc-105" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-107" value="输出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="N23LELdq8p_NCfSfyuuc-106" vertex="1" connectable="0">
+          <mxGeometry x="-0.4359" y="-2" relative="1" as="geometry">
+            <mxPoint x="10" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-86" value="清单&lt;div&gt;设计&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="N23LELdq8p_NCfSfyuuc-81" vertex="1">
+          <mxGeometry x="55" y="190" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N23LELdq8p_NCfSfyuuc-81" source="N23LELdq8p_NCfSfyuuc-88" target="N23LELdq8p_NCfSfyuuc-100" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-102" value="输出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="N23LELdq8p_NCfSfyuuc-101" vertex="1" connectable="0">
+          <mxGeometry x="-0.0488" y="-4" relative="1" as="geometry">
+            <mxPoint y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N23LELdq8p_NCfSfyuuc-81" source="N23LELdq8p_NCfSfyuuc-88" target="N23LELdq8p_NCfSfyuuc-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-88" value="图纸&lt;div&gt;设计&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="N23LELdq8p_NCfSfyuuc-81" vertex="1">
+          <mxGeometry x="55" y="330" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-100" value="1.系统图&lt;div&gt;2.分布图&lt;/div&gt;&lt;div&gt;3.IO分配表&lt;/div&gt;&lt;div&gt;4.配电统计表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="N23LELdq8p_NCfSfyuuc-81" vertex="1">
+          <mxGeometry x="220" y="320" width="102.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N23LELdq8p_NCfSfyuuc-81" source="N23LELdq8p_NCfSfyuuc-103" target="N23LELdq8p_NCfSfyuuc-108" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-137" value="输出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="N23LELdq8p_NCfSfyuuc-109" vertex="1" connectable="0">
+          <mxGeometry x="-0.1648" y="3" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N23LELdq8p_NCfSfyuuc-81" source="N23LELdq8p_NCfSfyuuc-103" target="N23LELdq8p_NCfSfyuuc-124" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-103" value="程序&lt;div&gt;设计&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="N23LELdq8p_NCfSfyuuc-81" vertex="1">
+          <mxGeometry x="55" y="470" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-105" value="电子清单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="N23LELdq8p_NCfSfyuuc-81" vertex="1">
+          <mxGeometry x="220" y="190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-108" value="1.程序设计管控表&lt;div&gt;2.程序配置表/功能要求表&lt;/div&gt;&lt;div&gt;&lt;div&gt;2.动作流程图&lt;/div&gt;&lt;div&gt;3.HMI/PLC程序&lt;/div&gt;&lt;div&gt;4.程序设计说明书(参数/控件调试要求)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="N23LELdq8p_NCfSfyuuc-81" vertex="1">
+          <mxGeometry x="220" y="447.5" width="212.5" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N23LELdq8p_NCfSfyuuc-81" source="N23LELdq8p_NCfSfyuuc-110" target="N23LELdq8p_NCfSfyuuc-121" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-127" value="输出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="N23LELdq8p_NCfSfyuuc-123" vertex="1" connectable="0">
+          <mxGeometry x="-0.1617" y="5" relative="1" as="geometry">
+            <mxPoint y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N23LELdq8p_NCfSfyuuc-81" source="N23LELdq8p_NCfSfyuuc-110" target="N23LELdq8p_NCfSfyuuc-134" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-110" value="程序&lt;div&gt;调试&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="N23LELdq8p_NCfSfyuuc-81" vertex="1">
+          <mxGeometry x="55" y="750" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-121" value="1.调试问题管控表&lt;div&gt;2.程序功能确认表&lt;/div&gt;&lt;div&gt;3.跑机数据记录表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="N23LELdq8p_NCfSfyuuc-81" vertex="1">
+          <mxGeometry x="212.5" y="745" width="132.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N23LELdq8p_NCfSfyuuc-81" source="N23LELdq8p_NCfSfyuuc-124" target="N23LELdq8p_NCfSfyuuc-110" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-124" value="仿真&lt;div&gt;调试&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="N23LELdq8p_NCfSfyuuc-81" vertex="1">
+          <mxGeometry x="55" y="610" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N23LELdq8p_NCfSfyuuc-81" source="N23LELdq8p_NCfSfyuuc-128" target="N23LELdq8p_NCfSfyuuc-132" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-133" value="输出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="N23LELdq8p_NCfSfyuuc-131" vertex="1" connectable="0">
+          <mxGeometry x="-0.0989" y="1" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-128" value="资料&lt;div&gt;交接&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="N23LELdq8p_NCfSfyuuc-81" vertex="1">
+          <mxGeometry x="55" y="1010" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-132" value="1.设备操作手册&lt;div&gt;2.电气图纸(IO/原理图/配电板/分布图)&lt;/div&gt;&lt;div&gt;3.最终程序, 软件版本, 动作流程图;&lt;/div&gt;&lt;div&gt;4.程序功能确认表, 跑机数据记录表;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="N23LELdq8p_NCfSfyuuc-81" vertex="1">
+          <mxGeometry x="212.5" y="997.5" width="220" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N23LELdq8p_NCfSfyuuc-81" source="N23LELdq8p_NCfSfyuuc-134" target="N23LELdq8p_NCfSfyuuc-128" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-134" value="程序&lt;div&gt;复盘&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="N23LELdq8p_NCfSfyuuc-81" vertex="1">
+          <mxGeometry x="55" y="890" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-82" value="电气工艺" style="swimlane;startSize=20;html=1;" parent="N23LELdq8p_NCfSfyuuc-79" vertex="1">
+          <mxGeometry x="210" y="20" width="190" height="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N23LELdq8p_NCfSfyuuc-82" source="N23LELdq8p_NCfSfyuuc-117" target="N23LELdq8p_NCfSfyuuc-118" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-120" value="输出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="N23LELdq8p_NCfSfyuuc-119" vertex="1" connectable="0">
+          <mxGeometry x="-0.1355" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-117" value="图纸&lt;div&gt;设计&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="N23LELdq8p_NCfSfyuuc-82" vertex="1">
+          <mxGeometry x="40" y="330" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-118" value="1.电气原理图&lt;div&gt;2.配电板布局图&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="N23LELdq8p_NCfSfyuuc-82" vertex="1">
+          <mxGeometry x="40" y="470" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N23LELdq8p_NCfSfyuuc-79" source="N23LELdq8p_NCfSfyuuc-83" target="N23LELdq8p_NCfSfyuuc-84" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-96" value="输出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="N23LELdq8p_NCfSfyuuc-85" vertex="1" connectable="0">
+          <mxGeometry x="-0.3504" y="-1" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N23LELdq8p_NCfSfyuuc-79" source="N23LELdq8p_NCfSfyuuc-84" target="N23LELdq8p_NCfSfyuuc-86" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-95" value="输入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="N23LELdq8p_NCfSfyuuc-94" vertex="1" connectable="0">
+          <mxGeometry x="0.2881" y="1" relative="1" as="geometry">
+            <mxPoint x="56" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N23LELdq8p_NCfSfyuuc-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N23LELdq8p_NCfSfyuuc-79" source="N23LELdq8p_NCfSfyuuc-84" target="N23LELdq8p_NCfSfyuuc-88" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
