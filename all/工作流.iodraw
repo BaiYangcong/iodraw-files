@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="u1SSNrfgTQyu487oR-md" name="Page-1">
-    <mxGraphModel dx="1687" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,7 +245,7 @@
         <mxCell id="CV9opn47tMgbwoLVdmxL-27" value="技术协议&lt;div&gt;要求复查&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CV9opn47tMgbwoLVdmxL-7">
           <mxGeometry x="50" y="1290" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CV9opn47tMgbwoLVdmxL-31" value="小批量跑机&lt;div&gt;CT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CV9opn47tMgbwoLVdmxL-7">
+        <mxCell id="CV9opn47tMgbwoLVdmxL-31" value="1.设备优化提升建议" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CV9opn47tMgbwoLVdmxL-7">
           <mxGeometry x="220" y="1180" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CV9opn47tMgbwoLVdmxL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="N23LELdq8p_NCfSfyuuc-79" source="N23LELdq8p_NCfSfyuuc-124" target="CV9opn47tMgbwoLVdmxL-11">
