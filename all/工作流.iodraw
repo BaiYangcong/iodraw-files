@@ -209,8 +209,8 @@
         <mxCell id="CV9opn47tMgbwoLVdmxL-11" value="设备组态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CV9opn47tMgbwoLVdmxL-7">
           <mxGeometry x="50" y="670" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CV9opn47tMgbwoLVdmxL-17" value="设备组态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CV9opn47tMgbwoLVdmxL-7">
-          <mxGeometry x="50" y="810" width="90" height="60" as="geometry" />
+        <mxCell id="CV9opn47tMgbwoLVdmxL-17" value="伺服组态、气缸调试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CV9opn47tMgbwoLVdmxL-7">
+          <mxGeometry x="50" y="790" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CV9opn47tMgbwoLVdmxL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="N23LELdq8p_NCfSfyuuc-79" source="N23LELdq8p_NCfSfyuuc-124" target="CV9opn47tMgbwoLVdmxL-11">
           <mxGeometry relative="1" as="geometry">
