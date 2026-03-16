@@ -221,7 +221,7 @@
         <mxCell id="CV9opn47tMgbwoLVdmxL-19" value="仪器仪表通讯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CV9opn47tMgbwoLVdmxL-7">
           <mxGeometry x="50" y="910" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CV9opn47tMgbwoLVdmxL-21" value="仪器仪表通讯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CV9opn47tMgbwoLVdmxL-7">
+        <mxCell id="CV9opn47tMgbwoLVdmxL-21" value="单工位调试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CV9opn47tMgbwoLVdmxL-7">
           <mxGeometry x="50" y="1050" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CV9opn47tMgbwoLVdmxL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="N23LELdq8p_NCfSfyuuc-79" source="N23LELdq8p_NCfSfyuuc-124" target="CV9opn47tMgbwoLVdmxL-11">
@@ -236,6 +236,12 @@
           <mxGeometry x="0.9315" y="-3" relative="1" as="geometry">
             <mxPoint y="-13" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CV9opn47tMgbwoLVdmxL-23" value="单工位调试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1210" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CV9opn47tMgbwoLVdmxL-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CV9opn47tMgbwoLVdmxL-21" target="CV9opn47tMgbwoLVdmxL-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
