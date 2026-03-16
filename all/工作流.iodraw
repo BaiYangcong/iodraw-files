@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="N23LELdq8p_NCfSfyuuc-79" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;glass=0;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry y="-70" width="1330" height="1510" as="geometry" />
+          <mxGeometry y="-70" width="1240" height="1510" as="geometry" />
         </mxCell>
         <mxCell id="N23LELdq8p_NCfSfyuuc-80" value="机械研发" style="swimlane;startSize=20;html=1;" parent="N23LELdq8p_NCfSfyuuc-79" vertex="1">
           <mxGeometry y="20" width="170" height="1490" as="geometry">
@@ -201,7 +201,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CV9opn47tMgbwoLVdmxL-7" value="电气调试" style="swimlane;startSize=20;" vertex="1" parent="N23LELdq8p_NCfSfyuuc-79">
-          <mxGeometry x="840" y="20" width="490" height="1490" as="geometry" />
+          <mxGeometry x="840" y="20" width="400" height="1490" as="geometry" />
         </mxCell>
         <mxCell id="CV9opn47tMgbwoLVdmxL-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CV9opn47tMgbwoLVdmxL-7" source="CV9opn47tMgbwoLVdmxL-11" target="CV9opn47tMgbwoLVdmxL-17">
           <mxGeometry relative="1" as="geometry" />
@@ -262,7 +262,7 @@
           <mxGeometry x="78.49000000000001" y="1310" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CV9opn47tMgbwoLVdmxL-31" value="1.设备优化提升建议" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CV9opn47tMgbwoLVdmxL-7">
-          <mxGeometry x="238.49" y="1200" width="130" height="60" as="geometry" />
+          <mxGeometry x="226.86" y="1200" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CV9opn47tMgbwoLVdmxL-49" value="1.问题反馈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CV9opn47tMgbwoLVdmxL-7">
           <mxGeometry x="226.86" y="1090" width="130" height="60" as="geometry" />
@@ -279,6 +279,9 @@
           <mxGeometry x="0.9315" y="-3" relative="1" as="geometry">
             <mxPoint y="-13" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CV9opn47tMgbwoLVdmxL-56" value="1.设备优化提升建议" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1076.8600000000001" y="1160" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
