@@ -242,7 +242,7 @@
             <mxPoint x="15" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CV9opn47tMgbwoLVdmxL-21" value="单工位调试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CV9opn47tMgbwoLVdmxL-7">
+        <mxCell id="CV9opn47tMgbwoLVdmxL-21" value="单工位调试：&lt;div&gt;1.视觉应用&lt;/div&gt;&lt;div&gt;2.机器人应用&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CV9opn47tMgbwoLVdmxL-7">
           <mxGeometry x="78.49000000000001" y="990" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CV9opn47tMgbwoLVdmxL-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CV9opn47tMgbwoLVdmxL-7" source="CV9opn47tMgbwoLVdmxL-23" target="CV9opn47tMgbwoLVdmxL-25">
