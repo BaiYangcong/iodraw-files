@@ -214,11 +214,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CV9opn47tMgbwoLVdmxL-12" value="输入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="657.5" y="380" as="geometry">
-            <mxPoint x="197" y="329" as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
